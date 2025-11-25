@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+jinja2
+pydantic-settings
+google-generativeai
+python-dotenv
