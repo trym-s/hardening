@@ -10,7 +10,8 @@ import {
 } from "@mui/material";
 import SecurityIcon from "@mui/icons-material/Security";
 import GitHubIcon from "@mui/icons-material/GitHub";
-import MenuIcon from "@mui/icons-material/Menu"; // Mobil için
+import MenuIcon from "@mui/icons-material/Menu";
+// For Mobile
 
 export const Header: React.FC = () => {
   return (

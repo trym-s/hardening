@@ -13,7 +13,7 @@ import { scriptService } from "../services";
 import { saveAs } from "file-saver";
 import { motion } from "framer-motion";
 
-// Yeni: Parent component (HomePage) ile iletişim kurmak için prop tanımı
+// New: Prop definition for communicating with the Parent component (HomePage)
 interface HeroProps {
   onDownloadStart?: () => void;
 }
@@ -26,7 +26,7 @@ export const Hero: React.FC<HeroProps> = ({ onDownloadStart }) => {
     setIsLoading(true);
     setError(null);
 
-    // Terminal animasyonunu tetikle
+    // Trigger terminal animation
     if (onDownloadStart) {
       onDownloadStart();
     }

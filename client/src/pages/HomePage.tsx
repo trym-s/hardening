@@ -15,7 +15,7 @@ interface TerminalProps {
 const TerminalPreview: React.FC<TerminalProps> = ({ lines }) => {
   const scrollRef = useRef<HTMLDivElement>(null);
 
-  // Her yeni satır eklendiğinde en alta scroll et
+// Scroll to bottom when new lines are added
   useEffect(() => {
     if (scrollRef.current) {
       scrollRef.current.scrollTop = scrollRef.current.scrollHeight;
@@ -28,9 +28,9 @@ const TerminalPreview: React.FC<TerminalProps> = ({ lines }) => {
         sx={{
           borderRadius: 3,
           overflow: "hidden",
-          boxShadow: "0 25px 50px -12px rgba(0, 0, 0, 0.5)", // Daha derin gölge
+          boxShadow: "0 25px 50px -12px rgba(0, 0, 0, 0.5)",
           border: "1px solid rgba(255,255,255,0.08)",
-          bgcolor: "#09090b", // Zinc 950 (Daha koyu)
+          bgcolor: "#09090b",
           fontFamily: '"JetBrains Mono", "Fira Code", monospace',
         }}
       >
@@ -107,8 +107,8 @@ const TerminalPreview: React.FC<TerminalProps> = ({ lines }) => {
                   display: "block",
                 }}
               >
-                {/* HTML içeriği (bold vb.) varsa render etmek için dangerouslySetInnerHTML kullanabiliriz 
-                    veya basitçe text basabiliriz. Şimdilik text. */}
+                {/* We can use dangerouslySetInnerHTML to render HTML content (bold, etc.) 
+                                        // or simply print text. For now, text. */ }
                 {line.text}
               </Typography>
             </Box>
@@ -144,7 +144,7 @@ const TerminalPreview: React.FC<TerminalProps> = ({ lines }) => {
 // 2. Main Page Logic
 // ---------------------------
 
-// Varsayılan (başlangıç) terminal satırları
+// Default (initial) terminal lines
 const INITIAL_LOGS = [
   { id: 1, text: "Welcome to System Hardener v2.0", color: "#a1a1aa" },
   {
@@ -152,14 +152,14 @@ const INITIAL_LOGS = [
     text: "Type './hardening.sh --help' for options.",
     color: "#a1a1aa",
   },
-  { id: 3, text: "", color: "" }, // Boş satır
+// Empty line
 ];
 
 export const HomePage: React.FC = () => {
   const [logs, setLogs] = useState(INITIAL_LOGS);
 
   const simulateDownloadLogs = () => {
-    // Önce temizle veya bir ayraç koy
+    // Clear first or add a separator
     setLogs((prev) => [
       ...prev,
       {
@@ -174,7 +174,7 @@ export const HomePage: React.FC = () => {
       },
     ]);
 
-    // Zamanlanmış loglar ekle
+    // Add timed logs
     const sequence = [
       { text: "[INFO] Resolving hardener.ai... 104.21.55.2", delay: 800 },
       {
@@ -218,10 +218,10 @@ export const HomePage: React.FC = () => {
       <Header />
 
       <Box component="main" sx={{ flexGrow: 1 }}>
-        {/* Prop'u buraya geçiriyoruz */}
+        {/* Passing the prop here */}
         <Hero onDownloadStart={simulateDownloadLogs} />
 
-        {/* Logları buraya geçiriyoruz */}
+        {/* Passing the logs here */}
         <TerminalPreview lines={logs} />
 
         {/* Divider */}
