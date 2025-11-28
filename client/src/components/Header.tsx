@@ -35,11 +35,14 @@ export const Header: React.FC = () => {
                 mr: 2,
                 p: 0.5,
                 borderRadius: "8px",
-                background: "linear-gradient(135deg, #4db6ac 0%, #00867d 100%)",
                 display: "flex",
+                alignItems: "center",
+                justifyContent: "center",
+                width: 32, // Adjust size as needed
+                height: 32, // Adjust size as needed
               }}
             >
-              <SecurityIcon sx={{ color: "white", fontSize: 20 }} />
+              <img src="/icon.jpg" alt="Hardener.ai Logo" style={{ width: '100%', height: '100%', objectFit: 'contain', borderRadius: '4px' }} />
             </Box>
             <Typography
               variant="h6"
@@ -78,7 +81,7 @@ export const Header: React.FC = () => {
             </Button>
             <Button
               color="inherit"
-              SX={{
+              sx={{
                 color: "text.secondary",
                 "&:hover": { color: "white", bgcolor: "transparent" },
               }}

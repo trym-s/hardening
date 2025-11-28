@@ -1,49 +1,17 @@
-import React, { useState } from "react";
+import React from "react";
 import {
   Box,
   Typography,
   Button,
   Container,
-  CircularProgress,
   Chip,
 } from "@mui/material";
-import DownloadIcon from "@mui/icons-material/DownloadRounded";
 import SecurityIcon from "@mui/icons-material/Security";
-import { scriptService } from "../services";
-import { saveAs } from "file-saver";
+import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
+import ArrowForwardIcon from '@mui/icons-material/ArrowForward';
 
-// New: Prop definition for communicating with the Parent component (HomePage)
-interface HeroProps {
-  onDownloadStart?: () => void;
-}
-
-export const Hero: React.FC<HeroProps> = ({ onDownloadStart }) => {
-  const [isLoading, setIsLoading] = useState(false);
-  const [error, setError] = useState<string | null>(null);
-
-  const handleDownload = async () => {
-    setIsLoading(true);
-    setError(null);
-
-    // Trigger terminal animation
-    if (onDownloadStart) {
-      onDownloadStart();
-    }
-
-    try {
-      const scriptContent = await scriptService.downloadScript();
-      const blob = new Blob([scriptContent], {
-        type: "text/x-shellscript;charset=utf-8",
-      });
-      saveAs(blob, "hardening.sh");
-    } catch (_err) {
-      setError("Failed to download script. Please try again later.");
-    } finally {
-      setIsLoading(false);
-    }
-  };
-
+export const Hero: React.FC = () => {
   return (
     <Container
       maxWidth="md"
@@ -117,45 +85,17 @@ export const Hero: React.FC<HeroProps> = ({ onDownloadStart }) => {
 
         <Box sx={{ display: "flex", gap: 2, justifyContent: "center" }}>
           <Button
+            component={Link}
+            to="/os"
             variant="contained"
             color="primary"
             size="large"
-            startIcon={
-              isLoading ? (
-                <CircularProgress size={20} color="inherit" />
-              ) : (
-                <DownloadIcon />
-              )
-            }
-            onClick={handleDownload}
-            disabled={isLoading}
+            endIcon={<ArrowForwardIcon />}
             sx={{ px: 4, py: 1.5, fontSize: "1rem" }}
           >
-            {isLoading ? "Downloading..." : "Download Script"}
-          </Button>
-          <Button
-            variant="outlined"
-            size="large"
-            color="inherit"
-            href="https://github.com/your-repo"
-            target="_blank"
-            sx={{
-              px: 4,
-              py: 1.5,
-              fontSize: "1rem",
-              borderColor: "rgba(255,255,255,0.1)",
-              color: "text.primary",
-            }}
-          >
-            Documentation
+            Select Your OS
           </Button>
         </Box>
-
-        {error && (
-          <Typography color="error" sx={{ mt: 3 }}>
-            {error}
-          </Typography>
-        )}
       </motion.div>
     </Container>
   );

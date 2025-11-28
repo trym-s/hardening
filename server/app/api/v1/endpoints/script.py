@@ -2,7 +2,25 @@ from fastapi import APIRouter
 from starlette.responses import FileResponse
 from pathlib import Path
 
+from app.schemas.script import ScriptGenerationRequest, ScriptResponse
+from app.services.script_service import ScriptService
+from fastapi import Depends
+
 router = APIRouter()
+
+@router.post("/generate", response_model=ScriptResponse)
+async def generate_script(
+    request: ScriptGenerationRequest,
+    service: ScriptService = Depends(ScriptService)
+):
+    """
+    Endpoint to generate a custom hardening script.
+    """
+    script_content = await service.generate_custom_script(request.rule_ids)
+    return ScriptResponse(
+        content=script_content,
+        filename=f"hardening_{request.os_type or 'custom'}.sh"
+    )
 
 @router.get("/download-script")
 async def download_script():

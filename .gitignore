@@ -60,3 +60,5 @@ htmlcov/
 *.tmp
 *.temp
 output.txt
+server/GEMINI.md
+GEMINI.md

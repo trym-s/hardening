@@ -7,7 +7,7 @@ from app.services.chat_service import ChatService
 
 router = APIRouter()
 
-@router.post("/chat")
+@router.post("/")
 async def chat(
     request: ChatRequest,
     chat_service: ChatService = Depends(get_llm_service)

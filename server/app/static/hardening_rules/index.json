@@ -1,0 +1,1298 @@
+[
+  {
+    "id": "1.1.1.1",
+    "title": "1.1.1.1",
+    "section": "Section 1 Initial Setup",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 1.1.1.1. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s1/1.1-filesystem/1.1.1/1.1.1.1/cramfs_audit.sh",
+    "remediation": "src/rules/s1/1.1-filesystem/1.1.1/1.1.1.1/cramfs_remediation.sh"
+  },
+  {
+    "id": "1.1.1.2",
+    "title": "1.1.1.2",
+    "section": "Section 1 Initial Setup",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 1.1.1.2. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s1/1.1-filesystem/1.1.1/1.1.1.2/freevxfs_audit.sh",
+    "remediation": "src/rules/s1/1.1-filesystem/1.1.1/1.1.1.2/freevxfs_remediation.sh"
+  },
+  {
+    "id": "1.1.1.3",
+    "title": "1.1.1.3",
+    "section": "Section 1 Initial Setup",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 1.1.1.3. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s1/1.1-filesystem/1.1.1/1.1.1.3/hfs_audit.sh",
+    "remediation": "src/rules/s1/1.1-filesystem/1.1.1/1.1.1.3/hfs_remediation.sh"
+  },
+  {
+    "id": "1.1.1.4",
+    "title": "1.1.1.4",
+    "section": "Section 1 Initial Setup",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 1.1.1.4. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s1/1.1-filesystem/1.1.1/1.1.1.4/hfsplus_audit.sh",
+    "remediation": "src/rules/s1/1.1-filesystem/1.1.1/1.1.1.4/hfsplus_remediation.sh"
+  },
+  {
+    "id": "1.1.1.5",
+    "title": "1.1.1.5",
+    "section": "Section 1 Initial Setup",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 1.1.1.5. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s1/1.1-filesystem/1.1.1/1.1.1.5/jffs2_audit.sh",
+    "remediation": "src/rules/s1/1.1-filesystem/1.1.1/1.1.1.5/jffs2_remediation.sh"
+  },
+  {
+    "id": "1.1.1.6",
+    "title": "1.1.1.6",
+    "section": "Section 1 Initial Setup",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 1.1.1.6. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s1/1.1-filesystem/1.1.1/1.1.1.6/overalyfs_audit.sh",
+    "remediation": "src/rules/s1/1.1-filesystem/1.1.1/1.1.1.6/overlayfs_remediation.sh"
+  },
+  {
+    "id": "1.1.1.7",
+    "title": "1.1.1.7",
+    "section": "Section 1 Initial Setup",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 1.1.1.7. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s1/1.1-filesystem/1.1.1/1.1.1.7/squasfs_audit.sh",
+    "remediation": "src/rules/s1/1.1-filesystem/1.1.1/1.1.1.7/squashfs_remediation.sh"
+  },
+  {
+    "id": "1.1.1.8",
+    "title": "1.1.1.8",
+    "section": "Section 1 Initial Setup",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 1.1.1.8. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s1/1.1-filesystem/1.1.1/1.1.1.8/udf_audit.sh",
+    "remediation": "src/rules/s1/1.1-filesystem/1.1.1/1.1.1.8/udf_remediation.sh"
+  },
+  {
+    "id": "1.1.1.9",
+    "title": "1.1.1.9",
+    "section": "Section 1 Initial Setup",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 1.1.1.9. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s1/1.1-filesystem/1.1.1/1.1.1.9/usb-storage_audit.sh",
+    "remediation": "src/rules/s1/1.1-filesystem/1.1.1/1.1.1.9/usb-storage_remediation.sh"
+  },
+  {
+    "id": "1.1.2.1.1",
+    "title": "1.1.2.1.1",
+    "section": "Section 1 Initial Setup",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 1.1.2.1.1. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s1/1.1-filesystem/1.1.2/1.1.2.1/1.1.2.1.1/tmp_partition_audit.sh",
+    "remediation": "src/rules/s1/1.1-filesystem/1.1.2/1.1.2.1/1.1.2.1.1/tmp_parti_remediation.sh"
+  },
+  {
+    "id": "1.1.2.1.2",
+    "title": "1.1.2.1.2",
+    "section": "Section 1 Initial Setup",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 1.1.2.1.2. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s1/1.1-filesystem/1.1.2/1.1.2.1/1.1.2.1.2/tmp_nodev_audit.sh",
+    "remediation": "src/rules/s1/1.1-filesystem/1.1.2/1.1.2.1/1.1.2.1.2/tmp_nodev_remediation.sh"
+  },
+  {
+    "id": "1.1.2.1.3",
+    "title": "1.1.2.1.3",
+    "section": "Section 1 Initial Setup",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 1.1.2.1.3. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s1/1.1-filesystem/1.1.2/1.1.2.1/1.1.2.1.3/tmp_noexec_audit.sh",
+    "remediation": "src/rules/s1/1.1-filesystem/1.1.2/1.1.2.1/1.1.2.1.3/tmp_noexec_remediation.sh"
+  },
+  {
+    "id": "1.1.2.1.4",
+    "title": "1.1.2.1.4",
+    "section": "Section 1 Initial Setup",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 1.1.2.1.4. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s1/1.1-filesystem/1.1.2/1.1.2.1/1.1.2.1.4/tmp_nosuid_audit.sh",
+    "remediation": "src/rules/s1/1.1-filesystem/1.1.2/1.1.2.1/1.1.2.1.4/tmp_nosuid_remediation.sh"
+  },
+  {
+    "id": "1.1.2.2.1",
+    "title": "1.1.2.2.1",
+    "section": "Section 1 Initial Setup",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 1.1.2.2.1. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s1/1.1-filesystem/1.1.2/1.1.2.2/1.1.2.2.1/audit.sh",
+    "remediation": "src/rules/s1/1.1-filesystem/1.1.2/1.1.2.2/1.1.2.2.1/remediation.sh"
+  },
+  {
+    "id": "1.1.2.2.2",
+    "title": "1.1.2.2.2",
+    "section": "Section 1 Initial Setup",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 1.1.2.2.2. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s1/1.1-filesystem/1.1.2/1.1.2.2/1.1.2.2.2/audit.sh",
+    "remediation": "src/rules/s1/1.1-filesystem/1.1.2/1.1.2.2/1.1.2.2.2/remediation.sh"
+  },
+  {
+    "id": "1.1.2.2.3",
+    "title": "1.1.2.2.3",
+    "section": "Section 1 Initial Setup",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 1.1.2.2.3. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s1/1.1-filesystem/1.1.2/1.1.2.2/1.1.2.2.3/audit.sh",
+    "remediation": "src/rules/s1/1.1-filesystem/1.1.2/1.1.2.2/1.1.2.2.3/remediation.sh"
+  },
+  {
+    "id": "1.1.2.2.4",
+    "title": "1.1.2.2.4",
+    "section": "Section 1 Initial Setup",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 1.1.2.2.4. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s1/1.1-filesystem/1.1.2/1.1.2.2/1.1.2.2.4/audit.sh",
+    "remediation": "src/rules/s1/1.1-filesystem/1.1.2/1.1.2.2/1.1.2.2.4/remediation.sh"
+  },
+  {
+    "id": "1.1.2.3.1",
+    "title": "1.1.2.3.1",
+    "section": "Section 1 Initial Setup",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 1.1.2.3.1. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s1/1.1-filesystem/1.1.2/1.1.2.3/1.1.2.3.1/audit.sh",
+    "remediation": "src/rules/s1/1.1-filesystem/1.1.2/1.1.2.3/1.1.2.3.1/remediation.sh"
+  },
+  {
+    "id": "1.1.2.3.2",
+    "title": "1.1.2.3.2",
+    "section": "Section 1 Initial Setup",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 1.1.2.3.2. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s1/1.1-filesystem/1.1.2/1.1.2.3/1.1.2.3.2/audit.sh",
+    "remediation": "src/rules/s1/1.1-filesystem/1.1.2/1.1.2.3/1.1.2.3.2/remediation.sh"
+  },
+  {
+    "id": "1.1.2.3.3",
+    "title": "1.1.2.3.3",
+    "section": "Section 1 Initial Setup",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 1.1.2.3.3. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s1/1.1-filesystem/1.1.2/1.1.2.3/1.1.2.3.3/audit.sh",
+    "remediation": "src/rules/s1/1.1-filesystem/1.1.2/1.1.2.3/1.1.2.3.3/remediation.sh"
+  },
+  {
+    "id": "1.1.2.4.1",
+    "title": "1.1.2.4.1",
+    "section": "Section 1 Initial Setup",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 1.1.2.4.1. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s1/1.1-filesystem/1.1.2/1.1.2.4/1.1.2.4.1/audit.sh",
+    "remediation": "src/rules/s1/1.1-filesystem/1.1.2/1.1.2.4/1.1.2.4.1/remediation.sh"
+  },
+  {
+    "id": "1.1.2.4.2",
+    "title": "1.1.2.4.2",
+    "section": "Section 1 Initial Setup",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 1.1.2.4.2. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s1/1.1-filesystem/1.1.2/1.1.2.4/1.1.2.4.2/audit.sh",
+    "remediation": "src/rules/s1/1.1-filesystem/1.1.2/1.1.2.4/1.1.2.4.2/remediation.sh"
+  },
+  {
+    "id": "1.1.2.4.3",
+    "title": "1.1.2.4.3",
+    "section": "Section 1 Initial Setup",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 1.1.2.4.3. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s1/1.1-filesystem/1.1.2/1.1.2.4/1.1.2.4.3/audit.sh",
+    "remediation": "src/rules/s1/1.1-filesystem/1.1.2/1.1.2.4/1.1.2.4.3/remediation.sh"
+  },
+  {
+    "id": "1.1.2.5.1",
+    "title": "1.1.2.5.1",
+    "section": "Section 1 Initial Setup",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 1.1.2.5.1. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s1/1.1-filesystem/1.1.2/1.1.2.5/1.1.2.5.1/audit.sh",
+    "remediation": "src/rules/s1/1.1-filesystem/1.1.2/1.1.2.5/1.1.2.5.1/remediation.sh"
+  },
+  {
+    "id": "1.1.2.5.2",
+    "title": "1.1.2.5.2",
+    "section": "Section 1 Initial Setup",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 1.1.2.5.2. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s1/1.1-filesystem/1.1.2/1.1.2.5/1.1.2.5.2/audit.sh",
+    "remediation": "src/rules/s1/1.1-filesystem/1.1.2/1.1.2.5/1.1.2.5.2/remediation.sh"
+  },
+  {
+    "id": "1.1.2.5.3",
+    "title": "1.1.2.5.3",
+    "section": "Section 1 Initial Setup",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 1.1.2.5.3. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s1/1.1-filesystem/1.1.2/1.1.2.5/1.1.2.5.3/audit.sh",
+    "remediation": "src/rules/s1/1.1-filesystem/1.1.2/1.1.2.5/1.1.2.5.3/remediation.sh"
+  },
+  {
+    "id": "1.1.2.5.4",
+    "title": "1.1.2.5.4",
+    "section": "Section 1 Initial Setup",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 1.1.2.5.4. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s1/1.1-filesystem/1.1.2/1.1.2.5/1.1.2.5.4/audit.sh",
+    "remediation": "src/rules/s1/1.1-filesystem/1.1.2/1.1.2.5/1.1.2.5.4/remediation.sh"
+  },
+  {
+    "id": "1.1.2.6.1",
+    "title": "1.1.2.6.1",
+    "section": "Section 1 Initial Setup",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 1.1.2.6.1. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s1/1.1-filesystem/1.1.2/1.1.2.6/1.1.2.6.1/audit.sh",
+    "remediation": "src/rules/s1/1.1-filesystem/1.1.2/1.1.2.6/1.1.2.6.1/remediation.sh"
+  },
+  {
+    "id": "1.1.2.6.2",
+    "title": "1.1.2.6.2",
+    "section": "Section 1 Initial Setup",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 1.1.2.6.2. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s1/1.1-filesystem/1.1.2/1.1.2.6/1.1.2.6.2/audit.sh",
+    "remediation": "src/rules/s1/1.1-filesystem/1.1.2/1.1.2.6/1.1.2.6.2/remediation.sh"
+  },
+  {
+    "id": "1.1.2.6.3",
+    "title": "1.1.2.6.3",
+    "section": "Section 1 Initial Setup",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 1.1.2.6.3. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s1/1.1-filesystem/1.1.2/1.1.2.6/1.1.2.6.3/audit.sh",
+    "remediation": "src/rules/s1/1.1-filesystem/1.1.2/1.1.2.6/1.1.2.6.3/remediation.sh"
+  },
+  {
+    "id": "1.1.2.6.4",
+    "title": "1.1.2.6.4",
+    "section": "Section 1 Initial Setup",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 1.1.2.6.4. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s1/1.1-filesystem/1.1.2/1.1.2.6/1.1.2.6.4/audit.sh",
+    "remediation": "src/rules/s1/1.1-filesystem/1.1.2/1.1.2.6/1.1.2.6.4/remediation.sh"
+  },
+  {
+    "id": "1.1.2.7.1",
+    "title": "1.1.2.7.1",
+    "section": "Section 1 Initial Setup",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 1.1.2.7.1. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s1/1.1-filesystem/1.1.2/1.1.2.7/1.1.2.7.1/audit.sh",
+    "remediation": "src/rules/s1/1.1-filesystem/1.1.2/1.1.2.7/1.1.2.7.1/remediation.sh"
+  },
+  {
+    "id": "1.1.2.7.2",
+    "title": "1.1.2.7.2",
+    "section": "Section 1 Initial Setup",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 1.1.2.7.2. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s1/1.1-filesystem/1.1.2/1.1.2.7/1.1.2.7.2/audit.sh",
+    "remediation": "src/rules/s1/1.1-filesystem/1.1.2/1.1.2.7/1.1.2.7.2/remediation.sh"
+  },
+  {
+    "id": "1.1.2.7.3",
+    "title": "1.1.2.7.3",
+    "section": "Section 1 Initial Setup",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 1.1.2.7.3. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s1/1.1-filesystem/1.1.2/1.1.2.7/1.1.2.7.3/audit.sh",
+    "remediation": "src/rules/s1/1.1-filesystem/1.1.2/1.1.2.7/1.1.2.7.3/remediation.sh"
+  },
+  {
+    "id": "1.1.2.7.4",
+    "title": "1.1.2.7.4",
+    "section": "Section 1 Initial Setup",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 1.1.2.7.4. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s1/1.1-filesystem/1.1.2/1.1.2.7/1.1.2.7.4/audit.sh",
+    "remediation": "src/rules/s1/1.1-filesystem/1.1.2/1.1.2.7/1.1.2.7.4/remediation.sh"
+  },
+  {
+    "id": "1.2.1",
+    "title": "1.2.1",
+    "section": "Section 1 Initial Setup",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 1.2.1. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s1/1.2-configure-software-updates/1.2.1/audit.sh",
+    "remediation": "src/rules/s1/1.2-configure-software-updates/1.2.1/remediation.sh"
+  },
+  {
+    "id": "1.3.1",
+    "title": "1.3.1",
+    "section": "Section 1 Initial Setup",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 1.3.1. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s1/1.3-configure-sudo/1.3.1/audit.sh",
+    "remediation": "src/rules/s1/1.3-configure-sudo/1.3.1/remediation.sh"
+  },
+  {
+    "id": "1.3.2",
+    "title": "1.3.2",
+    "section": "Section 1 Initial Setup",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 1.3.2. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s1/1.3-configure-sudo/1.3.2/audit.sh",
+    "remediation": "src/rules/s1/1.3-configure-sudo/1.3.2/remediation.sh"
+  },
+  {
+    "id": "1.3.3",
+    "title": "1.3.3",
+    "section": "Section 1 Initial Setup",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 1.3.3. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s1/1.3-configure-sudo/1.3.3/audit.sh",
+    "remediation": "src/rules/s1/1.3-configure-sudo/1.3.3/remediation.sh"
+  },
+  {
+    "id": "1.4.1",
+    "title": "1.4.1",
+    "section": "Section 1 Initial Setup",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 1.4.1. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s1/1.4-filesystem-integrity-checking/1.4.1/audit.sh",
+    "remediation": "src/rules/s1/1.4-filesystem-integrity-checking/1.4.1/remediation.sh"
+  },
+  {
+    "id": "1.4.2",
+    "title": "1.4.2",
+    "section": "Section 1 Initial Setup",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 1.4.2. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s1/1.4-filesystem-integrity-checking/1.4.2/audit.sh",
+    "remediation": "src/rules/s1/1.4-filesystem-integrity-checking/1.4.2/remediation.sh"
+  },
+  {
+    "id": "1.5.1",
+    "title": "1.5.1",
+    "section": "Section 1 Initial Setup",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 1.5.1. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s1/1.5-secure-boot-settings/1.5.1/audit.sh",
+    "remediation": "src/rules/s1/1.5-secure-boot-settings/1.5.1/remediation.sh"
+  },
+  {
+    "id": "1.5.2",
+    "title": "1.5.2",
+    "section": "Section 1 Initial Setup",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 1.5.2. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s1/1.5-secure-boot-settings/1.5.2/audit.sh",
+    "remediation": "src/rules/s1/1.5-secure-boot-settings/1.5.2/remediation.sh"
+  },
+  {
+    "id": "1.6.1",
+    "title": "1.6.1",
+    "section": "Section 1 Initial Setup",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 1.6.1. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s1/1.6-mandatory-access-control/1.6.1/audit.sh",
+    "remediation": "src/rules/s1/1.6-mandatory-access-control/1.6.1/remediation.sh"
+  },
+  {
+    "id": "1.6.2",
+    "title": "1.6.2",
+    "section": "Section 1 Initial Setup",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 1.6.2. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s1/1.6-mandatory-access-control/1.6.2/audit.sh",
+    "remediation": "src/rules/s1/1.6-mandatory-access-control/1.6.2/remediation.sh"
+  },
+  {
+    "id": "1.6.3",
+    "title": "1.6.3",
+    "section": "Section 1 Initial Setup",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 1.6.3. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s1/1.6-mandatory-access-control/1.6.3/audit.sh",
+    "remediation": "src/rules/s1/1.6-mandatory-access-control/1.6.3/remediation.sh"
+  },
+  {
+    "id": "1.7.1",
+    "title": "1.7.1",
+    "section": "Section 1 Initial Setup",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 1.7.1. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s1/1.7-warning-banners/1.7.1/audit.sh",
+    "remediation": "src/rules/s1/1.7-warning-banners/1.7.1/remediation.sh"
+  },
+  {
+    "id": "1.7.2",
+    "title": "1.7.2",
+    "section": "Section 1 Initial Setup",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 1.7.2. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s1/1.7-warning-banners/1.7.2/audit.sh",
+    "remediation": "src/rules/s1/1.7-warning-banners/1.7.2/remediation.sh"
+  },
+  {
+    "id": "1.7.3",
+    "title": "1.7.3",
+    "section": "Section 1 Initial Setup",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 1.7.3. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s1/1.7-warning-banners/1.7.3/audit.sh",
+    "remediation": "src/rules/s1/1.7-warning-banners/1.7.3/remediation.sh"
+  },
+  {
+    "id": "1.7.4",
+    "title": "1.7.4",
+    "section": "Section 1 Initial Setup",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 1.7.4. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s1/1.7-warning-banners/1.7.4/audit.sh",
+    "remediation": "src/rules/s1/1.7-warning-banners/1.7.4/remediation.sh"
+  },
+  {
+    "id": "1.7.5",
+    "title": "1.7.5",
+    "section": "Section 1 Initial Setup",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 1.7.5. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s1/1.7-warning-banners/1.7.5/audit.sh",
+    "remediation": "src/rules/s1/1.7-warning-banners/1.7.5/remediation.sh"
+  },
+  {
+    "id": "1.7.6",
+    "title": "1.7.6",
+    "section": "Section 1 Initial Setup",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 1.7.6. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s1/1.7-warning-banners/1.7.6/audit.sh",
+    "remediation": "src/rules/s1/1.7-warning-banners/1.7.6/remediation.sh"
+  },
+  {
+    "id": "1.8.1",
+    "title": "1.8.1",
+    "section": "Section 1 Initial Setup",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 1.8.1. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s1/1.8-gnome-display-manager/1.8.1/audit.sh",
+    "remediation": "src/rules/s1/1.8-gnome-display-manager/1.8.1/remediation.sh"
+  },
+  {
+    "id": "1.8.2",
+    "title": "1.8.2",
+    "section": "Section 1 Initial Setup",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 1.8.2. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s1/1.8-gnome-display-manager/1.8.2/audit.sh",
+    "remediation": "src/rules/s1/1.8-gnome-display-manager/1.8.2/remediation.sh"
+  },
+  {
+    "id": "1.8.3",
+    "title": "1.8.3",
+    "section": "Section 1 Initial Setup",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 1.8.3. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s1/1.8-gnome-display-manager/1.8.3/audit.sh",
+    "remediation": "src/rules/s1/1.8-gnome-display-manager/1.8.3/remediation.sh"
+  },
+  {
+    "id": "1.8.4",
+    "title": "1.8.4",
+    "section": "Section 1 Initial Setup",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 1.8.4. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s1/1.8-gnome-display-manager/1.8.4/audit.sh",
+    "remediation": "src/rules/s1/1.8-gnome-display-manager/1.8.4/remediation.sh"
+  },
+  {
+    "id": "2.1.1",
+    "title": "2.1.1",
+    "section": "Section 2 Services",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 2.1.1. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s2/2.1-configure-server-services/2.1.1/audit.sh",
+    "remediation": "src/rules/s2/2.1-configure-server-services/2.1.1/remediation.sh"
+  },
+  {
+    "id": "2.1.2",
+    "title": "2.1.2",
+    "section": "Section 2 Services",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 2.1.2. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s2/2.1-configure-server-services/2.1.2/audit.sh",
+    "remediation": "src/rules/s2/2.1-configure-server-services/2.1.2/remediation.sh"
+  },
+  {
+    "id": "2.1.3",
+    "title": "2.1.3",
+    "section": "Section 2 Services",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 2.1.3. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s2/2.1-configure-server-services/2.1.3/audit.sh",
+    "remediation": "src/rules/s2/2.1-configure-server-services/2.1.3/remediation.sh"
+  },
+  {
+    "id": "2.1.4",
+    "title": "2.1.4",
+    "section": "Section 2 Services",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 2.1.4. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s2/2.1-configure-server-services/2.1.4/audit.sh",
+    "remediation": "src/rules/s2/2.1-configure-server-services/2.1.4/remediation.sh"
+  },
+  {
+    "id": "2.1.5",
+    "title": "2.1.5",
+    "section": "Section 2 Services",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 2.1.5. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s2/2.1-configure-server-services/2.1.5/audit.sh",
+    "remediation": "src/rules/s2/2.1-configure-server-services/2.1.5/remediation.sh"
+  },
+  {
+    "id": "2.1.6",
+    "title": "2.1.6",
+    "section": "Section 2 Services",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 2.1.6. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s2/2.1-configure-server-services/2.1.6/audit.sh",
+    "remediation": "src/rules/s2/2.1-configure-server-services/2.1.6/remediation.sh"
+  },
+  {
+    "id": "2.1.7",
+    "title": "2.1.7",
+    "section": "Section 2 Services",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 2.1.7. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s2/2.1-configure-server-services/2.1.7/audit.sh",
+    "remediation": "src/rules/s2/2.1-configure-server-services/2.1.7/remediation.sh"
+  },
+  {
+    "id": "2.1.8",
+    "title": "2.1.8",
+    "section": "Section 2 Services",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 2.1.8. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s2/2.1-configure-server-services/2.1.8/audit.sh",
+    "remediation": "src/rules/s2/2.1-configure-server-services/2.1.8/remediation.sh"
+  },
+  {
+    "id": "2.1.9",
+    "title": "2.1.9",
+    "section": "Section 2 Services",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 2.1.9. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s2/2.1-configure-server-services/2.1.9/audit.sh",
+    "remediation": "src/rules/s2/2.1-configure-server-services/2.1.9/remediation.sh"
+  },
+  {
+    "id": "2.1.10",
+    "title": "2.1.10",
+    "section": "Section 2 Services",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 2.1.10. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s2/2.1-configure-server-services/2.1.10/audit.sh",
+    "remediation": "src/rules/s2/2.1-configure-server-services/2.1.10/remediation.sh"
+  },
+  {
+    "id": "2.1.11",
+    "title": "2.1.11",
+    "section": "Section 2 Services",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 2.1.11. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s2/2.1-configure-server-services/2.1.11/audit.sh",
+    "remediation": "src/rules/s2/2.1-configure-server-services/2.1.11/remediation.sh"
+  },
+  {
+    "id": "2.1.12",
+    "title": "2.1.12",
+    "section": "Section 2 Services",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 2.1.12. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s2/2.1-configure-server-services/2.1.12/audit.sh",
+    "remediation": "src/rules/s2/2.1-configure-server-services/2.1.12/remediation.sh"
+  },
+  {
+    "id": "2.1.13",
+    "title": "2.1.13",
+    "section": "Section 2 Services",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 2.1.13. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s2/2.1-configure-server-services/2.1.13/audit.sh",
+    "remediation": "src/rules/s2/2.1-configure-server-services/2.1.13/remediation.sh"
+  },
+  {
+    "id": "2.1.14",
+    "title": "2.1.14",
+    "section": "Section 2 Services",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 2.1.14. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s2/2.1-configure-server-services/2.1.14/audit.sh",
+    "remediation": "src/rules/s2/2.1-configure-server-services/2.1.14/remediation.sh"
+  },
+  {
+    "id": "2.1.15",
+    "title": "2.1.15",
+    "section": "Section 2 Services",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 2.1.15. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s2/2.1-configure-server-services/2.1.15/audit.sh",
+    "remediation": "src/rules/s2/2.1-configure-server-services/2.1.15/remediation.sh"
+  },
+  {
+    "id": "2.1.16",
+    "title": "2.1.16",
+    "section": "Section 2 Services",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 2.1.16. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s2/2.1-configure-server-services/2.1.16/audit.sh",
+    "remediation": "src/rules/s2/2.1-configure-server-services/2.1.16/remediation.sh"
+  },
+  {
+    "id": "2.1.17",
+    "title": "2.1.17",
+    "section": "Section 2 Services",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 2.1.17. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s2/2.1-configure-server-services/2.1.17/audit.sh",
+    "remediation": "src/rules/s2/2.1-configure-server-services/2.1.17/remediation.sh"
+  },
+  {
+    "id": "2.1.18",
+    "title": "2.1.18",
+    "section": "Section 2 Services",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 2.1.18. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s2/2.1-configure-server-services/2.1.18/audit.sh",
+    "remediation": "src/rules/s2/2.1-configure-server-services/2.1.18/remediation.sh"
+  },
+  {
+    "id": "2.1.19",
+    "title": "2.1.19",
+    "section": "Section 2 Services",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 2.1.19. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s2/2.1-configure-server-services/2.1.19/audit.sh",
+    "remediation": "src/rules/s2/2.1-configure-server-services/2.1.19/remediation.sh"
+  },
+  {
+    "id": "2.1.20",
+    "title": "2.1.20",
+    "section": "Section 2 Services",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 2.1.20. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s2/2.1-configure-server-services/2.1.20/audit.sh",
+    "remediation": "src/rules/s2/2.1-configure-server-services/2.1.20/remediation.sh"
+  },
+  {
+    "id": "2.1.21",
+    "title": "2.1.21",
+    "section": "Section 2 Services",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 2.1.21. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s2/2.1-configure-server-services/2.1.21/audit.sh",
+    "remediation": "src/rules/s2/2.1-configure-server-services/2.1.21/remediation.sh"
+  },
+  {
+    "id": "2.1.22",
+    "title": "2.1.22",
+    "section": "Section 2 Services",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 2.1.22. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s2/2.1-configure-server-services/2.1.22/audit.sh",
+    "remediation": "src/rules/s2/2.1-configure-server-services/2.1.22/remediation.sh"
+  },
+  {
+    "id": "2.2.1",
+    "title": "2.2.1",
+    "section": "Section 2 Services",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 2.2.1. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s2/2.2-configure-client-services/2.2.1/audit.sh",
+    "remediation": "src/rules/s2/2.2-configure-client-services/2.2.1/remediation.sh"
+  },
+  {
+    "id": "2.2.2",
+    "title": "2.2.2",
+    "section": "Section 2 Services",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 2.2.2. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s2/2.2-configure-client-services/2.2.2/audit.sh",
+    "remediation": "src/rules/s2/2.2-configure-client-services/2.2.2/remediation.sh"
+  },
+  {
+    "id": "2.2.3",
+    "title": "2.2.3",
+    "section": "Section 2 Services",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 2.2.3. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s2/2.2-configure-client-services/2.2.3/audit.sh",
+    "remediation": "src/rules/s2/2.2-configure-client-services/2.2.3/remediation.sh"
+  },
+  {
+    "id": "2.2.4",
+    "title": "2.2.4",
+    "section": "Section 2 Services",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 2.2.4. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s2/2.2-configure-client-services/2.2.4/audit.sh",
+    "remediation": "src/rules/s2/2.2-configure-client-services/2.2.4/remediation.sh"
+  },
+  {
+    "id": "2.2.5",
+    "title": "2.2.5",
+    "section": "Section 2 Services",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 2.2.5. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s2/2.2-configure-client-services/2.2.5/audit.sh",
+    "remediation": "src/rules/s2/2.2-configure-client-services/2.2.5/remediation.sh"
+  },
+  {
+    "id": "2.2.6",
+    "title": "2.2.6",
+    "section": "Section 2 Services",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 2.2.6. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s2/2.2-configure-client-services/2.2.6/audit.sh",
+    "remediation": "src/rules/s2/2.2-configure-client-services/2.2.6/remediation.sh"
+  },
+  {
+    "id": "2.2.7",
+    "title": "2.2.7",
+    "section": "Section 2 Services",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 2.2.7. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s2/2.2-configure-client-services/2.2.7/audit.sh",
+    "remediation": "src/rules/s2/2.2-configure-client-services/2.2.7/remediation.sh"
+  },
+  {
+    "id": "2.3.1",
+    "title": "2.3.1",
+    "section": "Section 2 Services",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 2.3.1. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s2/2.3-configure-time-synchronization/2.3.1/audit.sh",
+    "remediation": "src/rules/s2/2.3-configure-time-synchronization/2.3.1/remediation.sh"
+  },
+  {
+    "id": "2.3.2",
+    "title": "2.3.2",
+    "section": "Section 2 Services",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 2.3.2. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s2/2.3-configure-time-synchronization/2.3.2/audit.sh",
+    "remediation": "src/rules/s2/2.3-configure-time-synchronization/2.3.2/remediation.sh"
+  },
+  {
+    "id": "2.3.3",
+    "title": "2.3.3",
+    "section": "Section 2 Services",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 2.3.3. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s2/2.3-configure-time-synchronization/2.3.3/audit.sh",
+    "remediation": "src/rules/s2/2.3-configure-time-synchronization/2.3.3/remediation.sh"
+  },
+  {
+    "id": "2.3.4",
+    "title": "2.3.4",
+    "section": "Section 2 Services",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 2.3.4. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s2/2.3-configure-time-synchronization/2.3.4/audit.sh",
+    "remediation": "src/rules/s2/2.3-configure-time-synchronization/2.3.4/remediation.sh"
+  },
+  {
+    "id": "2.4.1",
+    "title": "2.4.1",
+    "section": "Section 2 Services",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 2.4.1. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s2/2.4-job-schedulers/2.4.1/audit.sh",
+    "remediation": "src/rules/s2/2.4-job-schedulers/2.4.1/remediation.sh"
+  },
+  {
+    "id": "2.4.2",
+    "title": "2.4.2",
+    "section": "Section 2 Services",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 2.4.2. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s2/2.4-job-schedulers/2.4.2/audit.sh",
+    "remediation": "src/rules/s2/2.4-job-schedulers/2.4.2/remediation.sh"
+  },
+  {
+    "id": "2.4.3",
+    "title": "2.4.3",
+    "section": "Section 2 Services",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 2.4.3. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s2/2.4-job-schedulers/2.4.3/audit.sh",
+    "remediation": "src/rules/s2/2.4-job-schedulers/2.4.3/remediation.sh"
+  },
+  {
+    "id": "2.4.4",
+    "title": "2.4.4",
+    "section": "Section 2 Services",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 2.4.4. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s2/2.4-job-schedulers/2.4.4/audit.sh",
+    "remediation": "src/rules/s2/2.4-job-schedulers/2.4.4/remediation.sh"
+  },
+  {
+    "id": "2.4.5",
+    "title": "2.4.5",
+    "section": "Section 2 Services",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 2.4.5. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s2/2.4-job-schedulers/2.4.5/audit.sh",
+    "remediation": "src/rules/s2/2.4-job-schedulers/2.4.5/remediation.sh"
+  },
+  {
+    "id": "2.4.6",
+    "title": "2.4.6",
+    "section": "Section 2 Services",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 2.4.6. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s2/2.4-job-schedulers/2.4.6/audit.sh",
+    "remediation": "src/rules/s2/2.4-job-schedulers/2.4.6/remediation.sh"
+  },
+  {
+    "id": "2.4.7",
+    "title": "2.4.7",
+    "section": "Section 2 Services",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 2.4.7. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s2/2.4-job-schedulers/2.4.7/audit.sh",
+    "remediation": "src/rules/s2/2.4-job-schedulers/2.4.7/remediation.sh"
+  },
+  {
+    "id": "2.4.8",
+    "title": "2.4.8",
+    "section": "Section 2 Services",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 2.4.8. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s2/2.4-job-schedulers/2.4.8/audit.sh",
+    "remediation": "src/rules/s2/2.4-job-schedulers/2.4.8/remediation.sh"
+  },
+  {
+    "id": "3.1.1",
+    "title": "3.1.1",
+    "section": "Section 3 Network",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 3.1.1. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s3/3.1-configure-network-devices/3.1.1/audit.sh",
+    "remediation": "src/rules/s3/3.1-configure-network-devices/3.1.1/remediation.sh"
+  },
+  {
+    "id": "3.1.2",
+    "title": "3.1.2",
+    "section": "Section 3 Network",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 3.1.2. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s3/3.1-configure-network-devices/3.1.2/audit.sh",
+    "remediation": "src/rules/s3/3.1-configure-network-devices/3.1.2/remediation.sh"
+  },
+  {
+    "id": "3.1.3",
+    "title": "3.1.3",
+    "section": "Section 3 Network",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 3.1.3. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s3/3.1-configure-network-devices/3.1.3/audit.sh",
+    "remediation": "src/rules/s3/3.1-configure-network-devices/3.1.3/remediation.sh"
+  },
+  {
+    "id": "3.2.1",
+    "title": "3.2.1",
+    "section": "Section 3 Network",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 3.2.1. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s3/3.2-configure-network-kernel-modules/3.2.1/audit.sh",
+    "remediation": "src/rules/s3/3.2-configure-network-kernel-modules/3.2.1/remediation.sh"
+  },
+  {
+    "id": "3.2.2",
+    "title": "3.2.2",
+    "section": "Section 3 Network",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 3.2.2. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s3/3.2-configure-network-kernel-modules/3.2.2/audit.sh",
+    "remediation": "src/rules/s3/3.2-configure-network-kernel-modules/3.2.2/remediation.sh"
+  },
+  {
+    "id": "3.2.3",
+    "title": "3.2.3",
+    "section": "Section 3 Network",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 3.2.3. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s3/3.2-configure-network-kernel-modules/3.2.3/audit.sh",
+    "remediation": "src/rules/s3/3.2-configure-network-kernel-modules/3.2.3/remediation.sh"
+  },
+  {
+    "id": "3.2.4",
+    "title": "3.2.4",
+    "section": "Section 3 Network",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 3.2.4. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s3/3.2-configure-network-kernel-modules/3.2.4/audit.sh",
+    "remediation": "src/rules/s3/3.2-configure-network-kernel-modules/3.2.4/remediation.sh"
+  },
+  {
+    "id": "3.3.1",
+    "title": "3.3.1",
+    "section": "Section 3 Network",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 3.3.1. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s3/3.3-configure-network-kernel-parameters/3.3.1/audit.sh",
+    "remediation": "src/rules/s3/3.3-configure-network-kernel-parameters/3.3.1/remediation.sh"
+  },
+  {
+    "id": "3.3.2",
+    "title": "3.3.2",
+    "section": "Section 3 Network",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 3.3.2. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s3/3.3-configure-network-kernel-parameters/3.3.2/audit.sh",
+    "remediation": "src/rules/s3/3.3-configure-network-kernel-parameters/3.3.2/remediation.sh"
+  },
+  {
+    "id": "3.3.3",
+    "title": "3.3.3",
+    "section": "Section 3 Network",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 3.3.3. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s3/3.3-configure-network-kernel-parameters/3.3.3/audit.sh",
+    "remediation": "src/rules/s3/3.3-configure-network-kernel-parameters/3.3.3/remediation.sh"
+  },
+  {
+    "id": "3.3.4",
+    "title": "3.3.4",
+    "section": "Section 3 Network",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 3.3.4. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s3/3.3-configure-network-kernel-parameters/3.3.4/audit.sh",
+    "remediation": "src/rules/s3/3.3-configure-network-kernel-parameters/3.3.4/remediation.sh"
+  },
+  {
+    "id": "3.3.5",
+    "title": "3.3.5",
+    "section": "Section 3 Network",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 3.3.5. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s3/3.3-configure-network-kernel-parameters/3.3.5/audit.sh",
+    "remediation": "src/rules/s3/3.3-configure-network-kernel-parameters/3.3.5/remediation.sh"
+  },
+  {
+    "id": "3.3.6",
+    "title": "3.3.6",
+    "section": "Section 3 Network",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 3.3.6. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s3/3.3-configure-network-kernel-parameters/3.3.6/audit.sh",
+    "remediation": "src/rules/s3/3.3-configure-network-kernel-parameters/3.3.6/remediation.sh"
+  },
+  {
+    "id": "3.3.7",
+    "title": "3.3.7",
+    "section": "Section 3 Network",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 3.3.7. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s3/3.3-configure-network-kernel-parameters/3.3.7/audit.sh",
+    "remediation": "src/rules/s3/3.3-configure-network-kernel-parameters/3.3.7/remediation.sh"
+  },
+  {
+    "id": "3.3.8",
+    "title": "3.3.8",
+    "section": "Section 3 Network",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 3.3.8. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s3/3.3-configure-network-kernel-parameters/3.3.8/audit.sh",
+    "remediation": "src/rules/s3/3.3-configure-network-kernel-parameters/3.3.8/remediation.sh"
+  },
+  {
+    "id": "3.3.9",
+    "title": "3.3.9",
+    "section": "Section 3 Network",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 3.3.9. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s3/3.3-configure-network-kernel-parameters/3.3.9/audit.sh",
+    "remediation": "src/rules/s3/3.3-configure-network-kernel-parameters/3.3.9/remediation.sh"
+  },
+  {
+    "id": "3.3.10",
+    "title": "3.3.10",
+    "section": "Section 3 Network",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 3.3.10. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s3/3.3-configure-network-kernel-parameters/3.3.10/audit.sh",
+    "remediation": "src/rules/s3/3.3-configure-network-kernel-parameters/3.3.10/remediation.sh"
+  },
+  {
+    "id": "3.3.11",
+    "title": "3.3.11",
+    "section": "Section 3 Network",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 3.3.11. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s3/3.3-configure-network-kernel-parameters/3.3.11/audit.sh",
+    "remediation": "src/rules/s3/3.3-configure-network-kernel-parameters/3.3.11/remediation.sh"
+  },
+  {
+    "id": "4.1.1",
+    "title": "4.1.1",
+    "section": "Section 4 Host Based Firewall",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 4.1.1. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s4/4.1-configure-a-single-firewall-utility/4.1.1/audit.sh",
+    "remediation": "src/rules/s4/4.1-configure-a-single-firewall-utility/4.1.1/remediation.sh"
+  },
+  {
+    "id": "4.2.1",
+    "title": "4.2.1",
+    "section": "Section 4 Host Based Firewall",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 4.2.1. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s4/4.2-configure-uncomplicatedfirewall/4.2.1/audit.sh",
+    "remediation": "src/rules/s4/4.2-configure-uncomplicatedfirewall/4.2.1/remediation.sh"
+  },
+  {
+    "id": "4.2.2",
+    "title": "4.2.2",
+    "section": "Section 4 Host Based Firewall",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 4.2.2. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s4/4.2-configure-uncomplicatedfirewall/4.2.2/audit.sh",
+    "remediation": "src/rules/s4/4.2-configure-uncomplicatedfirewall/4.2.2/remediation.sh"
+  },
+  {
+    "id": "4.2.3",
+    "title": "4.2.3",
+    "section": "Section 4 Host Based Firewall",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 4.2.3. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s4/4.2-configure-uncomplicatedfirewall/4.2.3/audit.sh",
+    "remediation": "src/rules/s4/4.2-configure-uncomplicatedfirewall/4.2.3/remediation.sh"
+  },
+  {
+    "id": "4.2.4",
+    "title": "4.2.4",
+    "section": "Section 4 Host Based Firewall",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 4.2.4. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s4/4.2-configure-uncomplicatedfirewall/4.2.4/audit.sh",
+    "remediation": "src/rules/s4/4.2-configure-uncomplicatedfirewall/4.2.4/remediation.sh"
+  },
+  {
+    "id": "4.2.5",
+    "title": "4.2.5",
+    "section": "Section 4 Host Based Firewall",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 4.2.5. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s4/4.2-configure-uncomplicatedfirewall/4.2.5/audit.sh",
+    "remediation": "src/rules/s4/4.2-configure-uncomplicatedfirewall/4.2.5/remediation.sh"
+  },
+  {
+    "id": "4.2.6",
+    "title": "4.2.6",
+    "section": "Section 4 Host Based Firewall",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 4.2.6. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s4/4.2-configure-uncomplicatedfirewall/4.2.6/audit.sh",
+    "remediation": "src/rules/s4/4.2-configure-uncomplicatedfirewall/4.2.6/remediation.sh"
+  },
+  {
+    "id": "4.2.7",
+    "title": "4.2.7",
+    "section": "Section 4 Host Based Firewall",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 4.2.7. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s4/4.2-configure-uncomplicatedfirewall/4.2.7/audit.sh",
+    "remediation": "src/rules/s4/4.2-configure-uncomplicatedfirewall/4.2.7/remediation.sh"
+  },
+  {
+    "id": "4.3.1",
+    "title": "4.3.1",
+    "section": "Section 4 Host Based Firewall",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 4.3.1. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s4/4.3-configure-nftables/4.3.1/audit.sh",
+    "remediation": "src/rules/s4/4.3-configure-nftables/4.3.1/remediation.sh"
+  },
+  {
+    "id": "4.3.2",
+    "title": "4.3.2",
+    "section": "Section 4 Host Based Firewall",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 4.3.2. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s4/4.3-configure-nftables/4.3.2/audit.sh",
+    "remediation": "src/rules/s4/4.3-configure-nftables/4.3.2/remediation.sh"
+  },
+  {
+    "id": "4.3.3",
+    "title": "4.3.3",
+    "section": "Section 4 Host Based Firewall",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 4.3.3. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s4/4.3-configure-nftables/4.3.3/audit.sh",
+    "remediation": "src/rules/s4/4.3-configure-nftables/4.3.3/remediation.sh"
+  },
+  {
+    "id": "4.3.4",
+    "title": "4.3.4",
+    "section": "Section 4 Host Based Firewall",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 4.3.4. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s4/4.3-configure-nftables/4.3.4/audit.sh",
+    "remediation": "src/rules/s4/4.3-configure-nftables/4.3.4/remediation.sh"
+  },
+  {
+    "id": "4.3.5",
+    "title": "4.3.5",
+    "section": "Section 4 Host Based Firewall",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 4.3.5. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s4/4.3-configure-nftables/4.3.5/audit.sh",
+    "remediation": "src/rules/s4/4.3-configure-nftables/4.3.5/remediation.sh"
+  },
+  {
+    "id": "4.3.6",
+    "title": "4.3.6",
+    "section": "Section 4 Host Based Firewall",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 4.3.6. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s4/4.3-configure-nftables/4.3.6/audit.sh",
+    "remediation": "src/rules/s4/4.3-configure-nftables/4.3.6/remediation.sh"
+  },
+  {
+    "id": "4.3.7",
+    "title": "4.3.7",
+    "section": "Section 4 Host Based Firewall",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 4.3.7. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s4/4.3-configure-nftables/4.3.7/audit.sh",
+    "remediation": "src/rules/s4/4.3-configure-nftables/4.3.7/remediation.sh"
+  },
+  {
+    "id": "4.3.8",
+    "title": "4.3.8",
+    "section": "Section 4 Host Based Firewall",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 4.3.8. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s4/4.3-configure-nftables/4.3.8/audit.sh",
+    "remediation": "src/rules/s4/4.3-configure-nftables/4.3.8/remediation.sh"
+  },
+  {
+    "id": "4.3.9",
+    "title": "4.3.9",
+    "section": "Section 4 Host Based Firewall",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 4.3.9. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s4/4.3-configure-nftables/4.3.9/audit.sh",
+    "remediation": "src/rules/s4/4.3-configure-nftables/4.3.9/remediation.sh"
+  },
+  {
+    "id": "4.3.10",
+    "title": "4.3.10",
+    "section": "Section 4 Host Based Firewall",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 4.3.10. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s4/4.3-configure-nftables/4.3.10/audit.sh",
+    "remediation": "src/rules/s4/4.3-configure-nftables/4.3.10/remediation.sh"
+  },
+  {
+    "id": "4.4.1.1",
+    "title": "4.4.1.1",
+    "section": "Section 4 Host Based Firewall",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 4.4.1.1. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s4/4.4-configure-iptables/4.4.1/4.4.1.1/audit.sh",
+    "remediation": "src/rules/s4/4.4-configure-iptables/4.4.1/4.4.1.1/remediation.sh"
+  },
+  {
+    "id": "4.4.1.2",
+    "title": "4.4.1.2",
+    "section": "Section 4 Host Based Firewall",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 4.4.1.2. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s4/4.4-configure-iptables/4.4.1/4.4.1.2/audit.sh",
+    "remediation": "src/rules/s4/4.4-configure-iptables/4.4.1/4.4.1.2/remediation.sh"
+  },
+  {
+    "id": "4.4.1.3",
+    "title": "4.4.1.3",
+    "section": "Section 4 Host Based Firewall",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 4.4.1.3. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s4/4.4-configure-iptables/4.4.1/4.4.1.3/audit.sh",
+    "remediation": "src/rules/s4/4.4-configure-iptables/4.4.1/4.4.1.3/remediation.sh"
+  },
+  {
+    "id": "4.4.2.1",
+    "title": "4.4.2.1",
+    "section": "Section 4 Host Based Firewall",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 4.4.2.1. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s4/4.4-configure-iptables/4.4.2/4.4.2.1/audit.sh",
+    "remediation": "src/rules/s4/4.4-configure-iptables/4.4.2/4.4.2.1/remediation.sh"
+  },
+  {
+    "id": "4.4.2.2",
+    "title": "4.4.2.2",
+    "section": "Section 4 Host Based Firewall",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 4.4.2.2. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s4/4.4-configure-iptables/4.4.2/4.4.2.2/audit.sh",
+    "remediation": "src/rules/s4/4.4-configure-iptables/4.4.2/4.4.2.2/remediation.sh"
+  },
+  {
+    "id": "4.4.2.3",
+    "title": "4.4.2.3",
+    "section": "Section 4 Host Based Firewall",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 4.4.2.3. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s4/4.4-configure-iptables/4.4.2/4.4.2.3/audit.sh",
+    "remediation": "src/rules/s4/4.4-configure-iptables/4.4.2/4.4.2.3/remediation.sh"
+  },
+  {
+    "id": "4.4.2.4",
+    "title": "4.4.2.4",
+    "section": "Section 4 Host Based Firewall",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 4.4.2.4. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s4/4.4-configure-iptables/4.4.2/4.4.2.4/audit.sh",
+    "remediation": "src/rules/s4/4.4-configure-iptables/4.4.2/4.4.2.4/remediation.sh"
+  },
+  {
+    "id": "4.4.3.1",
+    "title": "4.4.3.1",
+    "section": "Section 4 Host Based Firewall",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 4.4.3.1. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s4/4.4-configure-iptables/4.4.3/4.4.3.1/audit.sh",
+    "remediation": "src/rules/s4/4.4-configure-iptables/4.4.3/4.4.3.1/remediation.sh"
+  },
+  {
+    "id": "4.4.3.2",
+    "title": "4.4.3.2",
+    "section": "Section 4 Host Based Firewall",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 4.4.3.2. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s4/4.4-configure-iptables/4.4.3/4.4.3.2/audit.sh",
+    "remediation": "src/rules/s4/4.4-configure-iptables/4.4.3/4.4.3.2/remediation.sh"
+  },
+  {
+    "id": "4.4.3.3",
+    "title": "4.4.3.3",
+    "section": "Section 4 Host Based Firewall",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 4.4.3.3. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s4/4.4-configure-iptables/4.4.3/4.4.3.3/audit.sh",
+    "remediation": "src/rules/s4/4.4-configure-iptables/4.4.3/4.4.3.3/remediation.sh"
+  },
+  {
+    "id": "4.4.3.4",
+    "title": "4.4.3.4",
+    "section": "Section 4 Host Based Firewall",
+    "os": "ubuntu",
+    "description": "Placeholder description for rule 4.4.3.4. Details about the audit and remediation steps are included in the scripts.",
+    "audit": "src/rules/s4/4.4-configure-iptables/4.4.3/4.4.3.4/audit.sh",
+    "remediation": "src/rules/s4/4.4-configure-iptables/4.4.3/4.4.3.4/remediation.sh"
+  }
+]
