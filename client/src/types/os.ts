@@ -1,7 +1,1 @@
-export enum OSType {
-  UBUNTU = "ubuntu",
-  DEBIAN = "debian",
-  WINDOWS = "windows",
-  CENTOS = "centos",
-  FEDORA = "fedora",
-}
+// This file is obsolete and has been cleaned as part of the multi-platform migration.

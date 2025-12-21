@@ -1,0 +1,2200 @@
+[
+  {
+    "id": "1.1.1.1",
+    "title": "1.1.1.1",
+    "section": "Section 1 Initial Setup",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S1/1.1/1.1.1/1.1.1.1/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S1/1.1/1.1.1/1.1.1.1/remediation.sh"
+  },
+  {
+    "id": "1.1.1.2",
+    "title": "1.1.1.2",
+    "section": "Section 1 Initial Setup",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S1/1.1/1.1.1/1.1.1.2/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S1/1.1/1.1.1/1.1.1.2/remediation.sh"
+  },
+  {
+    "id": "1.1.1.3",
+    "title": "1.1.1.3",
+    "section": "Section 1 Initial Setup",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S1/1.1/1.1.1/1.1.1.3/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S1/1.1/1.1.1/1.1.1.3/remediation.sh"
+  },
+  {
+    "id": "1.1.1.4",
+    "title": "1.1.1.4",
+    "section": "Section 1 Initial Setup",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S1/1.1/1.1.1/1.1.1.4/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S1/1.1/1.1.1/1.1.1.4/remediation.sh"
+  },
+  {
+    "id": "1.1.1.5",
+    "title": "1.1.1.5",
+    "section": "Section 1 Initial Setup",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S1/1.1/1.1.1/1.1.1.5/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S1/1.1/1.1.1/1.1.1.5/remediation.sh"
+  },
+  {
+    "id": "1.1.1.6",
+    "title": "1.1.1.6",
+    "section": "Section 1 Initial Setup",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S1/1.1/1.1.1/1.1.1.6/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S1/1.1/1.1.1/1.1.1.6/remediation.sh"
+  },
+  {
+    "id": "1.1.1.7",
+    "title": "1.1.1.7",
+    "section": "Section 1 Initial Setup",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S1/1.1/1.1.1/1.1.1.7/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S1/1.1/1.1.1/1.1.1.7/remediation.sh"
+  },
+  {
+    "id": "1.1.1.8",
+    "title": "1.1.1.8",
+    "section": "Section 1 Initial Setup",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S1/1.1/1.1.1/1.1.1.8/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S1/1.1/1.1.1/1.1.1.8/remediation.sh"
+  },
+  {
+    "id": "1.1.1.9",
+    "title": "1.1.1.9",
+    "section": "Section 1 Initial Setup",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S1/1.1/1.1.1/1.1.1.9/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S1/1.1/1.1.1/1.1.1.9/remediation.sh"
+  },
+  {
+    "id": "1.1.2.1.1",
+    "title": "1.1.2.1.1",
+    "section": "Section 1 Initial Setup",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S1/1.1/1.1.2/1.1.2.1/1.1.2.1.1/audit.sh",
+    "remediation": null
+  },
+  {
+    "id": "1.1.2.1.2",
+    "title": "1.1.2.1.2",
+    "section": "Section 1 Initial Setup",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S1/1.1/1.1.2/1.1.2.1/1.1.2.1.2/audit.sh",
+    "remediation": null
+  },
+  {
+    "id": "1.1.2.1.3",
+    "title": "1.1.2.1.3",
+    "section": "Section 1 Initial Setup",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S1/1.1/1.1.2/1.1.2.1/1.1.2.1.3/audit.sh",
+    "remediation": null
+  },
+  {
+    "id": "1.1.2.1.4",
+    "title": "1.1.2.1.4",
+    "section": "Section 1 Initial Setup",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S1/1.1/1.1.2/1.1.2.1/1.1.2.1.4/audit.sh",
+    "remediation": null
+  },
+  {
+    "id": "1.1.2.2.1",
+    "title": "1.1.2.2.1",
+    "section": "Section 1 Initial Setup",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S1/1.1/1.1.2/1.1.2.2/1.1.2.2.1/audit.sh",
+    "remediation": null
+  },
+  {
+    "id": "1.1.2.2.2",
+    "title": "1.1.2.2.2",
+    "section": "Section 1 Initial Setup",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S1/1.1/1.1.2/1.1.2.2/1.1.2.2.2/audit.sh",
+    "remediation": null
+  },
+  {
+    "id": "1.1.2.2.3",
+    "title": "1.1.2.2.3",
+    "section": "Section 1 Initial Setup",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S1/1.1/1.1.2/1.1.2.2/1.1.2.2.3/audit.sh",
+    "remediation": null
+  },
+  {
+    "id": "1.1.2.2.4",
+    "title": "1.1.2.2.4",
+    "section": "Section 1 Initial Setup",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S1/1.1/1.1.2/1.1.2.2/1.1.2.2.4/audit.sh",
+    "remediation": null
+  },
+  {
+    "id": "1.1.2.3.1",
+    "title": "1.1.2.3.1",
+    "section": "Section 1 Initial Setup",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S1/1.1/1.1.2/1.1.2.3/1.1.2.3.1/audit.sh",
+    "remediation": null
+  },
+  {
+    "id": "1.1.2.3.2",
+    "title": "1.1.2.3.2",
+    "section": "Section 1 Initial Setup",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S1/1.1/1.1.2/1.1.2.3/1.1.2.3.2/audit.sh",
+    "remediation": null
+  },
+  {
+    "id": "1.1.2.3.3",
+    "title": "1.1.2.3.3",
+    "section": "Section 1 Initial Setup",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S1/1.1/1.1.2/1.1.2.3/1.1.2.3.3/audit.sh",
+    "remediation": null
+  },
+  {
+    "id": "1.1.2.4.1",
+    "title": "1.1.2.4.1",
+    "section": "Section 1 Initial Setup",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S1/1.1/1.1.2/1.1.2.4/1.1.2.4.1/audit.sh",
+    "remediation": null
+  },
+  {
+    "id": "1.1.2.4.2",
+    "title": "1.1.2.4.2",
+    "section": "Section 1 Initial Setup",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S1/1.1/1.1.2/1.1.2.4/1.1.2.4.2/audit.sh",
+    "remediation": null
+  },
+  {
+    "id": "1.1.2.4.3",
+    "title": "1.1.2.4.3",
+    "section": "Section 1 Initial Setup",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S1/1.1/1.1.2/1.1.2.4/1.1.2.4.3/audit.sh",
+    "remediation": null
+  },
+  {
+    "id": "1.1.2.5.1",
+    "title": "1.1.2.5.1",
+    "section": "Section 1 Initial Setup",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S1/1.1/1.1.2/1.1.2.5/1.1.2.5.1/audit.sh",
+    "remediation": null
+  },
+  {
+    "id": "1.1.2.5.2",
+    "title": "1.1.2.5.2",
+    "section": "Section 1 Initial Setup",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S1/1.1/1.1.2/1.1.2.5/1.1.2.5.2/audit.sh",
+    "remediation": null
+  },
+  {
+    "id": "1.1.2.5.3",
+    "title": "1.1.2.5.3",
+    "section": "Section 1 Initial Setup",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S1/1.1/1.1.2/1.1.2.5/1.1.2.5.3/audit.sh",
+    "remediation": null
+  },
+  {
+    "id": "1.1.2.5.4",
+    "title": "1.1.2.5.4",
+    "section": "Section 1 Initial Setup",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S1/1.1/1.1.2/1.1.2.5/1.1.2.5.4/audit.sh",
+    "remediation": null
+  },
+  {
+    "id": "1.1.2.6.1",
+    "title": "1.1.2.6.1",
+    "section": "Section 1 Initial Setup",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S1/1.1/1.1.2/1.1.2.6/1.1.2.6.1/audit.sh",
+    "remediation": null
+  },
+  {
+    "id": "1.1.2.6.2",
+    "title": "1.1.2.6.2",
+    "section": "Section 1 Initial Setup",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S1/1.1/1.1.2/1.1.2.6/1.1.2.6.2/audit.sh",
+    "remediation": null
+  },
+  {
+    "id": "1.1.2.6.3",
+    "title": "1.1.2.6.3",
+    "section": "Section 1 Initial Setup",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S1/1.1/1.1.2/1.1.2.6/1.1.2.6.3/audit.sh",
+    "remediation": null
+  },
+  {
+    "id": "1.1.2.6.4",
+    "title": "1.1.2.6.4",
+    "section": "Section 1 Initial Setup",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S1/1.1/1.1.2/1.1.2.6/1.1.2.6.4/audit.sh",
+    "remediation": null
+  },
+  {
+    "id": "1.1.2.7.1",
+    "title": "1.1.2.7.1",
+    "section": "Section 1 Initial Setup",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S1/1.1/1.1.2/1.1.2.7/1.1.2.7.1/audit.sh",
+    "remediation": null
+  },
+  {
+    "id": "1.1.2.7.2",
+    "title": "1.1.2.7.2",
+    "section": "Section 1 Initial Setup",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S1/1.1/1.1.2/1.1.2.7/1.1.2.7.2/audit.sh",
+    "remediation": null
+  },
+  {
+    "id": "1.1.2.7.3",
+    "title": "1.1.2.7.3",
+    "section": "Section 1 Initial Setup",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S1/1.1/1.1.2/1.1.2.7/1.1.2.7.3/audit.sh",
+    "remediation": null
+  },
+  {
+    "id": "1.1.2.7.4",
+    "title": "1.1.2.7.4",
+    "section": "Section 1 Initial Setup",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S1/1.1/1.1.2/1.1.2.7/1.1.2.7.4/audit.sh",
+    "remediation": null
+  },
+  {
+    "id": "1.2.1.1",
+    "title": "1.2.1.1",
+    "section": "Section 1 Initial Setup",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S1/1.2/1.2.1/1.2.1.1/audit.sh",
+    "remediation": null
+  },
+  {
+    "id": "1.2.1.2",
+    "title": "1.2.1.2",
+    "section": "Section 1 Initial Setup",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S1/1.2/1.2.1/1.2.1.2/audit.sh",
+    "remediation": null
+  },
+  {
+    "id": "1.2.2.1",
+    "title": "1.2.2.1",
+    "section": "Section 1 Initial Setup",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S1/1.2/1.2.2/1.2.2.1/audit.sh",
+    "remediation": null
+  },
+  {
+    "id": "1.3.1.1",
+    "title": "1.3.1.1",
+    "section": "Section 1 Initial Setup",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S1/1.3/1.3.1/1.3.1.1/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S1/1.3/1.3.1/1.3.1.1/remediation.sh"
+  },
+  {
+    "id": "1.3.1.2",
+    "title": "1.3.1.2",
+    "section": "Section 1 Initial Setup",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S1/1.3/1.3.1/1.3.1.2/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S1/1.3/1.3.1/1.3.1.2/remediation.sh"
+  },
+  {
+    "id": "1.3.1.3",
+    "title": "1.3.1.3",
+    "section": "Section 1 Initial Setup",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S1/1.3/1.3.1/1.3.1.3/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S1/1.3/1.3.1/1.3.1.3/remediation.sh"
+  },
+  {
+    "id": "1.3.1.4",
+    "title": "1.3.1.4",
+    "section": "Section 1 Initial Setup",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S1/1.3/1.3.1/1.3.1.4/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S1/1.3/1.3.1/1.3.1.4/remediation.sh"
+  },
+  {
+    "id": "1.4.1",
+    "title": "1.4.1",
+    "section": "Section 1 Initial Setup",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S1/1.4/1.4.1/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S1/1.4/1.4.1/remediation.sh"
+  },
+  {
+    "id": "1.4.2",
+    "title": "1.4.2",
+    "section": "Section 1 Initial Setup",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S1/1.4/1.4.2/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S1/1.4/1.4.2/remediation.sh"
+  },
+  {
+    "id": "1.5.1",
+    "title": "1.5.1",
+    "section": "Section 1 Initial Setup",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S1/1.5/1.5.1/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S1/1.5/1.5.1/remediation.sh"
+  },
+  {
+    "id": "1.5.2",
+    "title": "1.5.2",
+    "section": "Section 1 Initial Setup",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S1/1.5/1.5.2/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S1/1.5/1.5.2/remediation.sh"
+  },
+  {
+    "id": "1.5.3",
+    "title": "1.5.3",
+    "section": "Section 1 Initial Setup",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S1/1.5/1.5.3/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S1/1.5/1.5.3/remediation.sh"
+  },
+  {
+    "id": "1.5.4",
+    "title": "1.5.4",
+    "section": "Section 1 Initial Setup",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S1/1.5/1.5.4/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S1/1.5/1.5.4/remediation.sh"
+  },
+  {
+    "id": "1.5.5",
+    "title": "1.5.5",
+    "section": "Section 1 Initial Setup",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S1/1.5/1.5.5/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S1/1.5/1.5.5/remediation.sh"
+  },
+  {
+    "id": "1.6.1",
+    "title": "1.6.1",
+    "section": "Section 1 Initial Setup",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S1/1.6/1.6.1/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S1/1.6/1.6.1/remediation.sh"
+  },
+  {
+    "id": "1.6.2",
+    "title": "1.6.2",
+    "section": "Section 1 Initial Setup",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S1/1.6/1.6.2/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S1/1.6/1.6.2/remediation.sh"
+  },
+  {
+    "id": "1.6.3",
+    "title": "1.6.3",
+    "section": "Section 1 Initial Setup",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S1/1.6/1.6.3/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S1/1.6/1.6.3/remediation.sh"
+  },
+  {
+    "id": "1.6.4",
+    "title": "1.6.4",
+    "section": "Section 1 Initial Setup",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S1/1.6/1.6.4/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S1/1.6/1.6.4/remediation.sh"
+  },
+  {
+    "id": "1.6.5",
+    "title": "1.6.5",
+    "section": "Section 1 Initial Setup",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S1/1.6/1.6.5/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S1/1.6/1.6.5/remediation.sh"
+  },
+  {
+    "id": "1.6.6",
+    "title": "1.6.6",
+    "section": "Section 1 Initial Setup",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S1/1.6/1.6.6/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S1/1.6/1.6.6/remediation.sh"
+  },
+  {
+    "id": "1.7.1",
+    "title": "1.7.1",
+    "section": "Section 1 Initial Setup",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S1/1.7/1.7.1/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S1/1.7/1.7.1/remediation.sh"
+  },
+  {
+    "id": "1.7.2",
+    "title": "1.7.2",
+    "section": "Section 1 Initial Setup",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S1/1.7/1.7.2/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S1/1.7/1.7.2/remediation.sh"
+  },
+  {
+    "id": "1.7.3",
+    "title": "1.7.3",
+    "section": "Section 1 Initial Setup",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S1/1.7/1.7.3/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S1/1.7/1.7.3/remediation.sh"
+  },
+  {
+    "id": "1.7.4",
+    "title": "1.7.4",
+    "section": "Section 1 Initial Setup",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S1/1.7/1.7.4/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S1/1.7/1.7.4/remediation.sh"
+  },
+  {
+    "id": "1.7.5",
+    "title": "1.7.5",
+    "section": "Section 1 Initial Setup",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S1/1.7/1.7.5/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S1/1.7/1.7.5/remediation.sh"
+  },
+  {
+    "id": "1.7.6",
+    "title": "1.7.6",
+    "section": "Section 1 Initial Setup",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S1/1.7/1.7.6/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S1/1.7/1.7.6/remediation.sh"
+  },
+  {
+    "id": "1.7.7",
+    "title": "1.7.7",
+    "section": "Section 1 Initial Setup",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S1/1.7/1.7.7/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S1/1.7/1.7.7/remediation.sh"
+  },
+  {
+    "id": "1.7.8",
+    "title": "1.7.8",
+    "section": "Section 1 Initial Setup",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S1/1.7/1.7.8/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S1/1.7/1.7.8/remediation.sh"
+  },
+  {
+    "id": "1.7.9",
+    "title": "1.7.9",
+    "section": "Section 1 Initial Setup",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S1/1.7/1.7.9/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S1/1.7/1.7.9/remediation.sh"
+  },
+  {
+    "id": "1.7.10",
+    "title": "1.7.10",
+    "section": "Section 1 Initial Setup",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S1/1.7/1.7.10/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S1/1.7/1.7.10/remediation.sh"
+  },
+  {
+    "id": "2.1.1",
+    "title": "2.1.1",
+    "section": "Section 2 Services",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S2/2.1/2.1.1/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S2/2.1/2.1.1/remediation.sh"
+  },
+  {
+    "id": "2.1.2",
+    "title": "2.1.2",
+    "section": "Section 2 Services",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S2/2.1/2.1.2/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S2/2.1/2.1.2/remediation.sh"
+  },
+  {
+    "id": "2.1.3",
+    "title": "2.1.3",
+    "section": "Section 2 Services",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S2/2.1/2.1.3/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S2/2.1/2.1.3/remediation.sh"
+  },
+  {
+    "id": "2.1.4",
+    "title": "2.1.4",
+    "section": "Section 2 Services",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S2/2.1/2.1.4/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S2/2.1/2.1.4/remediation.sh"
+  },
+  {
+    "id": "2.1.5",
+    "title": "2.1.5",
+    "section": "Section 2 Services",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S2/2.1/2.1.5/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S2/2.1/2.1.5/remediation.sh"
+  },
+  {
+    "id": "2.1.6",
+    "title": "2.1.6",
+    "section": "Section 2 Services",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S2/2.1/2.1.6/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S2/2.1/2.1.6/remediation.sh"
+  },
+  {
+    "id": "2.1.7",
+    "title": "2.1.7",
+    "section": "Section 2 Services",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S2/2.1/2.1.7/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S2/2.1/2.1.7/remediation.sh"
+  },
+  {
+    "id": "2.1.8",
+    "title": "2.1.8",
+    "section": "Section 2 Services",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S2/2.1/2.1.8/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S2/2.1/2.1.8/remediation.sh"
+  },
+  {
+    "id": "2.1.9",
+    "title": "2.1.9",
+    "section": "Section 2 Services",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S2/2.1/2.1.9/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S2/2.1/2.1.9/remediation.sh"
+  },
+  {
+    "id": "2.1.10",
+    "title": "2.1.10",
+    "section": "Section 2 Services",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S2/2.1/2.1.10/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S2/2.1/2.1.10/remediation.sh"
+  },
+  {
+    "id": "2.1.11",
+    "title": "2.1.11",
+    "section": "Section 2 Services",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S2/2.1/2.1.11/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S2/2.1/2.1.11/remediation.sh"
+  },
+  {
+    "id": "2.1.12",
+    "title": "2.1.12",
+    "section": "Section 2 Services",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S2/2.1/2.1.12/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S2/2.1/2.1.12/remediation.sh"
+  },
+  {
+    "id": "2.1.13",
+    "title": "2.1.13",
+    "section": "Section 2 Services",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S2/2.1/2.1.13/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S2/2.1/2.1.13/remediation.sh"
+  },
+  {
+    "id": "2.1.14",
+    "title": "2.1.14",
+    "section": "Section 2 Services",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S2/2.1/2.1.14/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S2/2.1/2.1.14/remediation.sh"
+  },
+  {
+    "id": "2.1.15",
+    "title": "2.1.15",
+    "section": "Section 2 Services",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S2/2.1/2.1.15/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S2/2.1/2.1.15/remediation.sh"
+  },
+  {
+    "id": "2.1.16",
+    "title": "2.1.16",
+    "section": "Section 2 Services",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S2/2.1/2.1.16/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S2/2.1/2.1.16/remediation.sh"
+  },
+  {
+    "id": "2.1.17",
+    "title": "2.1.17",
+    "section": "Section 2 Services",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S2/2.1/2.1.17/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S2/2.1/2.1.17/remediation.sh"
+  },
+  {
+    "id": "2.1.18",
+    "title": "2.1.18",
+    "section": "Section 2 Services",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S2/2.1/2.1.18/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S2/2.1/2.1.18/remediation.sh"
+  },
+  {
+    "id": "2.1.19",
+    "title": "2.1.19",
+    "section": "Section 2 Services",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S2/2.1/2.1.19/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S2/2.1/2.1.19/remediation.sh"
+  },
+  {
+    "id": "2.1.20",
+    "title": "2.1.20",
+    "section": "Section 2 Services",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S2/2.1/2.1.20/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S2/2.1/2.1.20/remediation.sh"
+  },
+  {
+    "id": "2.1.21",
+    "title": "2.1.21",
+    "section": "Section 2 Services",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S2/2.1/2.1.21/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S2/2.1/2.1.21/remediation.sh"
+  },
+  {
+    "id": "2.1.22",
+    "title": "2.1.22",
+    "section": "Section 2 Services",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S2/2.1/2.1.22/audit.sh",
+    "remediation": null
+  },
+  {
+    "id": "2.2.1",
+    "title": "2.2.1",
+    "section": "Section 2 Services",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S2/2.2/2.2.1/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S2/2.2/2.2.1/remediation.sh"
+  },
+  {
+    "id": "2.2.2",
+    "title": "2.2.2",
+    "section": "Section 2 Services",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S2/2.2/2.2.2/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S2/2.2/2.2.2/remediation.sh"
+  },
+  {
+    "id": "2.2.3",
+    "title": "2.2.3",
+    "section": "Section 2 Services",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S2/2.2/2.2.3/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S2/2.2/2.2.3/remediation.sh"
+  },
+  {
+    "id": "2.2.4",
+    "title": "2.2.4",
+    "section": "Section 2 Services",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S2/2.2/2.2.4/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S2/2.2/2.2.4/remediation.sh"
+  },
+  {
+    "id": "2.2.5",
+    "title": "2.2.5",
+    "section": "Section 2 Services",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S2/2.2/2.2.5/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S2/2.2/2.2.5/remediation.sh"
+  },
+  {
+    "id": "2.2.6",
+    "title": "2.2.6",
+    "section": "Section 2 Services",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S2/2.2/2.2.6/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S2/2.2/2.2.6/remediation.sh"
+  },
+  {
+    "id": "2.2.7",
+    "title": "2.2.7",
+    "section": "Section 2 Services",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S2/2.2/2.2.7/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S2/2.2/2.2.7/remediation.sh"
+  },
+  {
+    "id": "2.3.1",
+    "title": "2.3.1",
+    "section": "Section 2 Services",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S2/2.3/2.3.1/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S2/2.3/2.3.1/remediation.sh"
+  },
+  {
+    "id": "2.3.2",
+    "title": "2.3.2",
+    "section": "Section 2 Services",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S2/2.3/2.3.2/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S2/2.3/2.3.2/remediation.sh"
+  },
+  {
+    "id": "2.3.3",
+    "title": "2.3.3",
+    "section": "Section 2 Services",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S2/2.3/2.3.3/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S2/2.3/2.3.3/remediation.sh"
+  },
+  {
+    "id": "2.3.4",
+    "title": "2.3.4",
+    "section": "Section 2 Services",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S2/2.3/2.3.4/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S2/2.3/2.3.4/remediation.sh"
+  },
+  {
+    "id": "2.4.1.1",
+    "title": "2.4.1.1",
+    "section": "Section 2 Services",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S2/2.4/2.4.1/2.4.1.1/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S2/2.4/2.4.1/2.4.1.1/remediation.sh"
+  },
+  {
+    "id": "2.4.1.2",
+    "title": "2.4.1.2",
+    "section": "Section 2 Services",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S2/2.4/2.4.1/2.4.1.2/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S2/2.4/2.4.1/2.4.1.2/remediation.sh"
+  },
+  {
+    "id": "2.4.1.3",
+    "title": "2.4.1.3",
+    "section": "Section 2 Services",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S2/2.4/2.4.1/2.4.1.3/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S2/2.4/2.4.1/2.4.1.3/remediation.sh"
+  },
+  {
+    "id": "2.4.1.4",
+    "title": "2.4.1.4",
+    "section": "Section 2 Services",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S2/2.4/2.4.1/2.4.1.4/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S2/2.4/2.4.1/2.4.1.4/remediation.sh"
+  },
+  {
+    "id": "2.4.1.5",
+    "title": "2.4.1.5",
+    "section": "Section 2 Services",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S2/2.4/2.4.1/2.4.1.5/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S2/2.4/2.4.1/2.4.1.5/remediation.sh"
+  },
+  {
+    "id": "2.4.1.6",
+    "title": "2.4.1.6",
+    "section": "Section 2 Services",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S2/2.4/2.4.1/2.4.1.6/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S2/2.4/2.4.1/2.4.1.6/remediation.sh"
+  },
+  {
+    "id": "2.4.1.7",
+    "title": "2.4.1.7",
+    "section": "Section 2 Services",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S2/2.4/2.4.1/2.4.1.7/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S2/2.4/2.4.1/2.4.1.7/remediation.sh"
+  },
+  {
+    "id": "2.4.1.8",
+    "title": "2.4.1.8",
+    "section": "Section 2 Services",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S2/2.4/2.4.1/2.4.1.8/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S2/2.4/2.4.1/2.4.1.8/remediation.sh"
+  },
+  {
+    "id": "2.4.2.1",
+    "title": "2.4.2.1",
+    "section": "Section 2 Services",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S2/2.4/2.4.2/2.4.2.1/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S2/2.4/2.4.2/2.4.2.1/remediation.sh"
+  },
+  {
+    "id": "3.1.1",
+    "title": "3.1.1",
+    "section": "Section 3 Network",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S3/3.1/3.1.1/audit.sh",
+    "remediation": null
+  },
+  {
+    "id": "3.1.2",
+    "title": "3.1.2",
+    "section": "Section 3 Network",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S3/3.1/3.1.2/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S3/3.1/3.1.2/remediation.sh"
+  },
+  {
+    "id": "3.1.3",
+    "title": "3.1.3",
+    "section": "Section 3 Network",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S3/3.1/3.1.3/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S3/3.1/3.1.3/remediation.sh"
+  },
+  {
+    "id": "3.2.1",
+    "title": "3.2.1",
+    "section": "Section 3 Network",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S3/3.2/3.2.1/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S3/3.2/3.2.1/remediation.sh"
+  },
+  {
+    "id": "3.2.2",
+    "title": "3.2.2",
+    "section": "Section 3 Network",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S3/3.2/3.2.2/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S3/3.2/3.2.2/remediation.sh"
+  },
+  {
+    "id": "3.2.3",
+    "title": "3.2.3",
+    "section": "Section 3 Network",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S3/3.2/3.2.3/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S3/3.2/3.2.3/remediation.sh"
+  },
+  {
+    "id": "3.2.4",
+    "title": "3.2.4",
+    "section": "Section 3 Network",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S3/3.2/3.2.4/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S3/3.2/3.2.4/remediation.sh"
+  },
+  {
+    "id": "3.3.1",
+    "title": "3.3.1",
+    "section": "Section 3 Network",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S3/3.3/3.3.1/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S3/3.3/3.3.1/remediation.sh"
+  },
+  {
+    "id": "3.3.2",
+    "title": "3.3.2",
+    "section": "Section 3 Network",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S3/3.3/3.3.2/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S3/3.3/3.3.2/remediation.sh"
+  },
+  {
+    "id": "3.3.3",
+    "title": "3.3.3",
+    "section": "Section 3 Network",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S3/3.3/3.3.3/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S3/3.3/3.3.3/remediation.sh"
+  },
+  {
+    "id": "3.3.4",
+    "title": "3.3.4",
+    "section": "Section 3 Network",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S3/3.3/3.3.4/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S3/3.3/3.3.4/remediation.sh"
+  },
+  {
+    "id": "3.3.5",
+    "title": "3.3.5",
+    "section": "Section 3 Network",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S3/3.3/3.3.5/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S3/3.3/3.3.5/remediation.sh"
+  },
+  {
+    "id": "3.3.6",
+    "title": "3.3.6",
+    "section": "Section 3 Network",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S3/3.3/3.3.6/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S3/3.3/3.3.6/remediation.sh"
+  },
+  {
+    "id": "3.3.7",
+    "title": "3.3.7",
+    "section": "Section 3 Network",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S3/3.3/3.3.7/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S3/3.3/3.3.7/remediation.sh"
+  },
+  {
+    "id": "3.3.8",
+    "title": "3.3.8",
+    "section": "Section 3 Network",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S3/3.3/3.3.8/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S3/3.3/3.3.8/remediation.sh"
+  },
+  {
+    "id": "3.3.9",
+    "title": "3.3.9",
+    "section": "Section 3 Network",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S3/3.3/3.3.9/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S3/3.3/3.3.9/remediation.sh"
+  },
+  {
+    "id": "3.3.10",
+    "title": "3.3.10",
+    "section": "Section 3 Network",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S3/3.3/3.3.10/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S3/3.3/3.3.10/remediation.sh"
+  },
+  {
+    "id": "3.3.11",
+    "title": "3.3.11",
+    "section": "Section 3 Network",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S3/3.3/3.3.11/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S3/3.3/3.3.11/remediation.sh"
+  },
+  {
+    "id": "4.1.1",
+    "title": "4.1.1",
+    "section": "Section 4 Host Based Firewall",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S4/4.1/4.1.1/audit.sh",
+    "remediation": null
+  },
+  {
+    "id": "4.2.1",
+    "title": "4.2.1",
+    "section": "Section 4 Host Based Firewall",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S4/4.2/4.2.1/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S4/4.2/4.2.1/remediation.sh"
+  },
+  {
+    "id": "4.2.2",
+    "title": "4.2.2",
+    "section": "Section 4 Host Based Firewall",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S4/4.2/4.2.2/audit.sh",
+    "remediation": null
+  },
+  {
+    "id": "4.2.3",
+    "title": "4.2.3",
+    "section": "Section 4 Host Based Firewall",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S4/4.2/4.2.3/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S4/4.2/4.2.3/remediation.sh"
+  },
+  {
+    "id": "4.2.4",
+    "title": "4.2.4",
+    "section": "Section 4 Host Based Firewall",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S4/4.2/4.2.4/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S4/4.2/4.2.4/remediation.sh"
+  },
+  {
+    "id": "4.2.5",
+    "title": "4.2.5",
+    "section": "Section 4 Host Based Firewall",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S4/4.2/4.2.5/audit.sh",
+    "remediation": null
+  },
+  {
+    "id": "4.2.6",
+    "title": "4.2.6",
+    "section": "Section 4 Host Based Firewall",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S4/4.2/4.2.6/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S4/4.2/4.2.6/remediation.sh"
+  },
+  {
+    "id": "4.2.7",
+    "title": "4.2.7",
+    "section": "Section 4 Host Based Firewall",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S4/4.2/4.2.7/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S4/4.2/4.2.7/remediation.sh"
+  },
+  {
+    "id": "4.3.1",
+    "title": "4.3.1",
+    "section": "Section 4 Host Based Firewall",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S4/4.3/4.3.1/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S4/4.3/4.3.1/remediation.sh"
+  },
+  {
+    "id": "4.3.2",
+    "title": "4.3.2",
+    "section": "Section 4 Host Based Firewall",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S4/4.3/4.3.2/audit.sh",
+    "remediation": null
+  },
+  {
+    "id": "4.3.3",
+    "title": "4.3.3",
+    "section": "Section 4 Host Based Firewall",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S4/4.3/4.3.3/audit.sh",
+    "remediation": null
+  },
+  {
+    "id": "4.3.4",
+    "title": "4.3.4",
+    "section": "Section 4 Host Based Firewall",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S4/4.3/4.3.4/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S4/4.3/4.3.4/remediation.sh"
+  },
+  {
+    "id": "4.3.5",
+    "title": "4.3.5",
+    "section": "Section 4 Host Based Firewall",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S4/4.3/4.3.5/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S4/4.3/4.3.5/remediation.sh"
+  },
+  {
+    "id": "4.3.6",
+    "title": "4.3.6",
+    "section": "Section 4 Host Based Firewall",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S4/4.3/4.3.6/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S4/4.3/4.3.6/remediation.sh"
+  },
+  {
+    "id": "4.3.7",
+    "title": "4.3.7",
+    "section": "Section 4 Host Based Firewall",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S4/4.3/4.3.7/audit.sh",
+    "remediation": null
+  },
+  {
+    "id": "4.3.8",
+    "title": "4.3.8",
+    "section": "Section 4 Host Based Firewall",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S4/4.3/4.3.8/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S4/4.3/4.3.8/remediation.sh"
+  },
+  {
+    "id": "4.3.9",
+    "title": "4.3.9",
+    "section": "Section 4 Host Based Firewall",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S4/4.3/4.3.9/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S4/4.3/4.3.9/remediation.sh"
+  },
+  {
+    "id": "4.3.10",
+    "title": "4.3.10",
+    "section": "Section 4 Host Based Firewall",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S4/4.3/4.3.10/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S4/4.3/4.3.10/remediation.sh"
+  },
+  {
+    "id": "4.4.1",
+    "title": "4.4.1",
+    "section": "Section 4 Host Based Firewall",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S4/4.4/4.4.1/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S4/4.4/4.4.1/remediation.sh"
+  },
+  {
+    "id": "4.4.1.1",
+    "title": "4.4.1.1",
+    "section": "Section 4 Host Based Firewall",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S4/4.4/4.4.1/4.4.1.1/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S4/4.4/4.4.1/4.4.1.1/remediation.sh"
+  },
+  {
+    "id": "4.4.1.2",
+    "title": "4.4.1.2",
+    "section": "Section 4 Host Based Firewall",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S4/4.4/4.4.1/4.4.1.2/audit.sh",
+    "remediation": null
+  },
+  {
+    "id": "4.4.1.3",
+    "title": "4.4.1.3",
+    "section": "Section 4 Host Based Firewall",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S4/4.4/4.4.1/4.4.1.3/audit.sh",
+    "remediation": null
+  },
+  {
+    "id": "4.4.2",
+    "title": "4.4.2",
+    "section": "Section 4 Host Based Firewall",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S4/4.4/4.4.2/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S4/4.4/4.4.2/remediation.sh"
+  },
+  {
+    "id": "4.4.2.1",
+    "title": "4.4.2.1",
+    "section": "Section 4 Host Based Firewall",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S4/4.4/4.4.2/4.4.2.1/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S4/4.4/4.4.2/4.4.2.1/remediation.sh"
+  },
+  {
+    "id": "4.4.2.2",
+    "title": "4.4.2.2",
+    "section": "Section 4 Host Based Firewall",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S4/4.4/4.4.2/4.4.2.2/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S4/4.4/4.4.2/4.4.2.2/remediation.sh"
+  },
+  {
+    "id": "4.4.2.3",
+    "title": "4.4.2.3",
+    "section": "Section 4 Host Based Firewall",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S4/4.4/4.4.2/4.4.2.3/audit.sh",
+    "remediation": null
+  },
+  {
+    "id": "4.4.2.4",
+    "title": "4.4.2.4",
+    "section": "Section 4 Host Based Firewall",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S4/4.4/4.4.2/4.4.2.4/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S4/4.4/4.4.2/4.4.2.4/remediation.sh"
+  },
+  {
+    "id": "4.4.3",
+    "title": "4.4.3",
+    "section": "Section 4 Host Based Firewall",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S4/4.4/4.4.3/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S4/4.4/4.4.3/remediation.sh"
+  },
+  {
+    "id": "4.4.3.1",
+    "title": "4.4.3.1",
+    "section": "Section 4 Host Based Firewall",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S4/4.4/4.4.3/4.4.3.1/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S4/4.4/4.4.3/4.4.3.1/remediation.sh"
+  },
+  {
+    "id": "4.4.3.2",
+    "title": "4.4.3.2",
+    "section": "Section 4 Host Based Firewall",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S4/4.4/4.4.3/4.4.3.2/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S4/4.4/4.4.3/4.4.3.2/remediation.sh"
+  },
+  {
+    "id": "4.4.3.3",
+    "title": "4.4.3.3",
+    "section": "Section 4 Host Based Firewall",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S4/4.4/4.4.3/4.4.3.3/audit.sh",
+    "remediation": null
+  },
+  {
+    "id": "4.4.3.4",
+    "title": "4.4.3.4",
+    "section": "Section 4 Host Based Firewall",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S4/4.4/4.4.3/4.4.3.4/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S4/4.4/4.4.3/4.4.3.4/remediation.sh"
+  },
+  {
+    "id": "5.1.1",
+    "title": "5.1.1",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.1/5.1.1/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.1/5.1.1/remediation.sh"
+  },
+  {
+    "id": "5.1.2",
+    "title": "5.1.2",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.1/5.1.2/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.1/5.1.2/remediation.sh"
+  },
+  {
+    "id": "5.1.3",
+    "title": "5.1.3",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.1/5.1.3/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.1/5.1.3/remediation.sh"
+  },
+  {
+    "id": "5.1.4",
+    "title": "5.1.4",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.1/5.1.4/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.1/5.1.4/remediation.sh"
+  },
+  {
+    "id": "5.1.5",
+    "title": "5.1.5",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.1/5.1.5/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.1/5.1.5/remediation.sh"
+  },
+  {
+    "id": "5.1.6",
+    "title": "5.1.6",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.1/5.1.6/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.1/5.1.6/remediation.sh"
+  },
+  {
+    "id": "5.1.7",
+    "title": "5.1.7",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.1/5.1.7/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.1/5.1.7/remediation.sh"
+  },
+  {
+    "id": "5.1.8",
+    "title": "5.1.8",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.1/5.1.8/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.1/5.1.8/remediation.sh"
+  },
+  {
+    "id": "5.1.9",
+    "title": "5.1.9",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.1/5.1.9/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.1/5.1.9/remediation.sh"
+  },
+  {
+    "id": "5.1.10",
+    "title": "5.1.10",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.1/5.1.10/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.1/5.1.10/remediation.sh"
+  },
+  {
+    "id": "5.1.11",
+    "title": "5.1.11",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.1/5.1.11/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.1/5.1.11/remediation.sh"
+  },
+  {
+    "id": "5.1.12",
+    "title": "5.1.12",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.1/5.1.12/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.1/5.1.12/remediation.sh"
+  },
+  {
+    "id": "5.1.13",
+    "title": "5.1.13",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.1/5.1.13/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.1/5.1.13/remediation.sh"
+  },
+  {
+    "id": "5.1.14",
+    "title": "5.1.14",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.1/5.1.14/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.1/5.1.14/remediation.sh"
+  },
+  {
+    "id": "5.1.15",
+    "title": "5.1.15",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.1/5.1.15/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.1/5.1.15/remediation.sh"
+  },
+  {
+    "id": "5.1.16",
+    "title": "5.1.16",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.1/5.1.16/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.1/5.1.16/remediation.sh"
+  },
+  {
+    "id": "5.1.17",
+    "title": "5.1.17",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.1/5.1.17/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.1/5.1.17/remediation.sh"
+  },
+  {
+    "id": "5.1.18",
+    "title": "5.1.18",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.1/5.1.18/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.1/5.1.18/remediation.sh"
+  },
+  {
+    "id": "5.1.19",
+    "title": "5.1.19",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.1/5.1.19/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.1/5.1.19/remediation.sh"
+  },
+  {
+    "id": "5.1.20",
+    "title": "5.1.20",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.1/5.1.20/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.1/5.1.20/remediation.sh"
+  },
+  {
+    "id": "5.1.21",
+    "title": "5.1.21",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.1/5.1.21/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.1/5.1.21/remediation.sh"
+  },
+  {
+    "id": "5.1.22",
+    "title": "5.1.22",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.1/5.1.22/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.1/5.1.22/remediation.sh"
+  },
+  {
+    "id": "5.2.1",
+    "title": "5.2.1",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.2/5.2.1/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.2/5.2.1/remediation.sh"
+  },
+  {
+    "id": "5.2.2",
+    "title": "5.2.2",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.2/5.2.2/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.2/5.2.2/remediation.sh"
+  },
+  {
+    "id": "5.2.3",
+    "title": "5.2.3",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.2/5.2.3/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.2/5.2.3/remediation.sh"
+  },
+  {
+    "id": "5.2.4",
+    "title": "5.2.4",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.2/5.2.4/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.2/5.2.4/remediation.sh"
+  },
+  {
+    "id": "5.2.5",
+    "title": "5.2.5",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.2/5.2.5/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.2/5.2.5/remediation.sh"
+  },
+  {
+    "id": "5.2.6",
+    "title": "5.2.6",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.2/5.2.6/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.2/5.2.6/remediation.sh"
+  },
+  {
+    "id": "5.2.7",
+    "title": "5.2.7",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.2/5.2.7/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.2/5.2.7/remediation.sh"
+  },
+  {
+    "id": "5.3.1.1",
+    "title": "5.3.1.1",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.3/5.3.1/5.3.1.1/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.3/5.3.1/5.3.1.1/remediation.sh"
+  },
+  {
+    "id": "5.3.1.2",
+    "title": "5.3.1.2",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.3/5.3.1/5.3.1.2/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.3/5.3.1/5.3.1.2/remediation.sh"
+  },
+  {
+    "id": "5.3.1.3",
+    "title": "5.3.1.3",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.3/5.3.1/5.3.1.3/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.3/5.3.1/5.3.1.3/remediation.sh"
+  },
+  {
+    "id": "5.3.2.1",
+    "title": "5.3.2.1",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.3/5.3.2/5.3.2.1/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.3/5.3.2/5.3.2.1/remediation.sh"
+  },
+  {
+    "id": "5.3.2.2",
+    "title": "5.3.2.2",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.3/5.3.2/5.3.2.2/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.3/5.3.2/5.3.2.2/remediation.sh"
+  },
+  {
+    "id": "5.3.2.3",
+    "title": "5.3.2.3",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.3/5.3.2/5.3.2.3/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.3/5.3.2/5.3.2.3/remediation.sh"
+  },
+  {
+    "id": "5.3.2.4",
+    "title": "5.3.2.4",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.3/5.3.2/5.3.2.4/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.3/5.3.2/5.3.2.4/remediation.sh"
+  },
+  {
+    "id": "5.3.3.1.1",
+    "title": "5.3.3.1.1",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.3/5.3.3/5.3.3.1/5.3.3.1.1/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.3/5.3.3/5.3.3.1/5.3.3.1.1/remediation.sh"
+  },
+  {
+    "id": "5.3.3.1.2",
+    "title": "5.3.3.1.2",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.3/5.3.3/5.3.3.1/5.3.3.1.2/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.3/5.3.3/5.3.3.1/5.3.3.1.2/remediation.sh"
+  },
+  {
+    "id": "5.3.3.1.3",
+    "title": "5.3.3.1.3",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.3/5.3.3/5.3.3.1/5.3.3.1.3/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.3/5.3.3/5.3.3.1/5.3.3.1.3/remediation.sh"
+  },
+  {
+    "id": "5.3.3.2.1",
+    "title": "5.3.3.2.1",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.3/5.3.3/5.3.3.2/5.3.3.2.1/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.3/5.3.3/5.3.3.2/5.3.3.2.1/remediation.sh"
+  },
+  {
+    "id": "5.3.3.2.2",
+    "title": "5.3.3.2.2",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.3/5.3.3/5.3.3.2/5.3.3.2.2/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.3/5.3.3/5.3.3.2/5.3.3.2.2/remediation.sh"
+  },
+  {
+    "id": "5.3.3.2.3",
+    "title": "5.3.3.2.3",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.3/5.3.3/5.3.3.2/5.3.3.2.3/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.3/5.3.3/5.3.3.2/5.3.3.2.3/remediation.sh"
+  },
+  {
+    "id": "5.3.3.2.4",
+    "title": "5.3.3.2.4",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.3/5.3.3/5.3.3.2/5.3.3.2.4/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.3/5.3.3/5.3.3.2/5.3.3.2.4/remediation.sh"
+  },
+  {
+    "id": "5.3.3.2.5",
+    "title": "5.3.3.2.5",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.3/5.3.3/5.3.3.2/5.3.3.2.5/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.3/5.3.3/5.3.3.2/5.3.3.2.5/remediation.sh"
+  },
+  {
+    "id": "5.3.3.2.6",
+    "title": "5.3.3.2.6",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.3/5.3.3/5.3.3.2/5.3.3.2.6/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.3/5.3.3/5.3.3.2/5.3.3.2.6/remediation.sh"
+  },
+  {
+    "id": "5.3.3.2.7",
+    "title": "5.3.3.2.7",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.3/5.3.3/5.3.3.2/5.3.3.2.7/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.3/5.3.3/5.3.3.2/5.3.3.2.7/remediation.sh"
+  },
+  {
+    "id": "5.3.3.2.8",
+    "title": "5.3.3.2.8",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.3/5.3.3/5.3.3.2/5.3.3.2.8/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.3/5.3.3/5.3.3.2/5.3.3.2.8/remediation.sh"
+  },
+  {
+    "id": "5.3.3.3.1",
+    "title": "5.3.3.3.1",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.3/5.3.3/5.3.3.3/5.3.3.3.1/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.3/5.3.3/5.3.3.3/5.3.3.3.1/remediation.sh"
+  },
+  {
+    "id": "5.3.3.3.2",
+    "title": "5.3.3.3.2",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.3/5.3.3/5.3.3.3/5.3.3.3.2/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.3/5.3.3/5.3.3.3/5.3.3.3.2/remediation.sh"
+  },
+  {
+    "id": "5.3.3.3.3",
+    "title": "5.3.3.3.3",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.3/5.3.3/5.3.3.3/5.3.3.3.3/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.3/5.3.3/5.3.3.3/5.3.3.3.3/remediation.sh"
+  },
+  {
+    "id": "5.3.3.4.1",
+    "title": "5.3.3.4.1",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.3/5.3.3/5.3.3.4/5.3.3.4.1/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.3/5.3.3/5.3.3.4/5.3.3.4.1/remediation.sh"
+  },
+  {
+    "id": "5.3.3.4.2",
+    "title": "5.3.3.4.2",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.3/5.3.3/5.3.3.4/5.3.3.4.2/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.3/5.3.3/5.3.3.4/5.3.3.4.2/remediation.sh"
+  },
+  {
+    "id": "5.3.3.4.3",
+    "title": "5.3.3.4.3",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.3/5.3.3/5.3.3.4/5.3.3.4.3/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.3/5.3.3/5.3.3.4/5.3.3.4.3/remediation.sh"
+  },
+  {
+    "id": "5.3.3.4.4",
+    "title": "5.3.3.4.4",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.3/5.3.3/5.3.3.4/5.3.3.4.4/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.3/5.3.3/5.3.3.4/5.3.3.4.4/remediation.sh"
+  },
+  {
+    "id": "5.4.1.1",
+    "title": "5.4.1.1",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.4/5.4.1/5.4.1.1/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.4/5.4.1/5.4.1.1/remediation.sh"
+  },
+  {
+    "id": "5.4.1.2",
+    "title": "5.4.1.2",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.4/5.4.1/5.4.1.2/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.4/5.4.1/5.4.1.2/remediation.sh"
+  },
+  {
+    "id": "5.4.1.3",
+    "title": "5.4.1.3",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.4/5.4.1/5.4.1.3/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.4/5.4.1/5.4.1.3/remediation.sh"
+  },
+  {
+    "id": "5.4.1.4",
+    "title": "5.4.1.4",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.4/5.4.1/5.4.1.4/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.4/5.4.1/5.4.1.4/remediation.sh"
+  },
+  {
+    "id": "5.4.1.5",
+    "title": "5.4.1.5",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.4/5.4.1/5.4.1.5/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.4/5.4.1/5.4.1.5/remediation.sh"
+  },
+  {
+    "id": "5.4.1.6",
+    "title": "5.4.1.6",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.4/5.4.1/5.4.1.6/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.4/5.4.1/5.4.1.6/remediation.sh"
+  },
+  {
+    "id": "5.4.2.1",
+    "title": "5.4.2.1",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.4/5.4.2/5.4.2.1/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.4/5.4.2/5.4.2.1/remediation.sh"
+  },
+  {
+    "id": "5.4.2.2",
+    "title": "5.4.2.2",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.4/5.4.2/5.4.2.2/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.4/5.4.2/5.4.2.2/remediation.sh"
+  },
+  {
+    "id": "5.4.2.3",
+    "title": "5.4.2.3",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.4/5.4.2/5.4.2.3/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.4/5.4.2/5.4.2.3/remediation.sh"
+  },
+  {
+    "id": "5.4.2.4",
+    "title": "5.4.2.4",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.4/5.4.2/5.4.2.4/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.4/5.4.2/5.4.2.4/remediation.sh"
+  },
+  {
+    "id": "5.4.2.5",
+    "title": "5.4.2.5",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.4/5.4.2/5.4.2.5/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.4/5.4.2/5.4.2.5/remediation.sh"
+  },
+  {
+    "id": "5.4.2.6",
+    "title": "5.4.2.6",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.4/5.4.2/5.4.2.6/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.4/5.4.2/5.4.2.6/remediation.sh"
+  },
+  {
+    "id": "5.4.2.7",
+    "title": "5.4.2.7",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.4/5.4.2/5.4.2.7/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.4/5.4.2/5.4.2.7/remediation.sh"
+  },
+  {
+    "id": "5.4.2.8",
+    "title": "5.4.2.8",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.4/5.4.2/5.4.2.8/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.4/5.4.2/5.4.2.8/remediation.sh"
+  },
+  {
+    "id": "5.4.3.1",
+    "title": "5.4.3.1",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.4/5.4.3/5.4.3.1/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.4/5.4.3/5.4.3.1/remediation.sh"
+  },
+  {
+    "id": "5.4.3.2",
+    "title": "5.4.3.2",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.4/5.4.3/5.4.3.2/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.4/5.4.3/5.4.3.2/remediation.sh"
+  },
+  {
+    "id": "5.4.3.3",
+    "title": "5.4.3.3",
+    "section": "Section 5 Access Control",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S5/5.4/5.4.3/5.4.3.3/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S5/5.4/5.4.3/5.4.3.3/remediation.sh"
+  },
+  {
+    "id": "6.1.1.1",
+    "title": "6.1.1.1",
+    "section": "S6",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S6/6.1/6.1.1/6.1.1.1/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S6/6.1/6.1.1/6.1.1.1/remediation.sh"
+  },
+  {
+    "id": "6.1.1.2",
+    "title": "6.1.1.2",
+    "section": "S6",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S6/6.1/6.1.1/6.1.1.2/audit.sh",
+    "remediation": null
+  },
+  {
+    "id": "6.1.1.3",
+    "title": "6.1.1.3",
+    "section": "S6",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S6/6.1/6.1.1/6.1.1.3/audit.sh",
+    "remediation": null
+  },
+  {
+    "id": "6.1.1.4",
+    "title": "6.1.1.4",
+    "section": "S6",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S6/6.1/6.1.1/6.1.1.4/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S6/6.1/6.1.1/6.1.1.4/remediation.sh"
+  },
+  {
+    "id": "6.1.2.1.1",
+    "title": "6.1.2.1.1",
+    "section": "S6",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S6/6.1/6.1.2/6.1.2.1/6.1.2.1.1/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S6/6.1/6.1.2/6.1.2.1/6.1.2.1.1/remediation.sh"
+  },
+  {
+    "id": "6.1.2.1.2",
+    "title": "6.1.2.1.2",
+    "section": "S6",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S6/6.1/6.1.2/6.1.2.1/6.1.2.1.2/audit.sh",
+    "remediation": null
+  },
+  {
+    "id": "6.1.2.1.3",
+    "title": "6.1.2.1.3",
+    "section": "S6",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S6/6.1/6.1.2/6.1.2.1/6.1.2.1.3/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S6/6.1/6.1.2/6.1.2.1/6.1.2.1.3/remediation.sh"
+  },
+  {
+    "id": "6.1.2.1.4",
+    "title": "6.1.2.1.4",
+    "section": "S6",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S6/6.1/6.1.2/6.1.2.1/6.1.2.1.4/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S6/6.1/6.1.2/6.1.2.1/6.1.2.1.4/remediation.sh"
+  },
+  {
+    "id": "6.1.2.2",
+    "title": "6.1.2.2",
+    "section": "S6",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S6/6.1/6.1.2/6.1.2.2/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S6/6.1/6.1.2/6.1.2.2/remediation.sh"
+  },
+  {
+    "id": "6.1.2.3",
+    "title": "6.1.2.3",
+    "section": "S6",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S6/6.1/6.1.2/6.1.2.3/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S6/6.1/6.1.2/6.1.2.3/remediation.sh"
+  },
+  {
+    "id": "6.1.2.4",
+    "title": "6.1.2.4",
+    "section": "S6",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S6/6.1/6.1.2/6.1.2.4/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S6/6.1/6.1.2/6.1.2.4/remediation.sh"
+  },
+  {
+    "id": "6.1.3.1",
+    "title": "6.1.3.1",
+    "section": "S6",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S6/6.1/6.1.3/6.1.3.1/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S6/6.1/6.1.3/6.1.3.1/remediation.sh"
+  },
+  {
+    "id": "6.1.3.2",
+    "title": "6.1.3.2",
+    "section": "S6",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S6/6.1/6.1.3/6.1.3.2/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S6/6.1/6.1.3/6.1.3.2/remediation.sh"
+  },
+  {
+    "id": "6.1.3.3",
+    "title": "6.1.3.3",
+    "section": "S6",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S6/6.1/6.1.3/6.1.3.3/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S6/6.1/6.1.3/6.1.3.3/remediation.sh"
+  },
+  {
+    "id": "6.1.3.4",
+    "title": "6.1.3.4",
+    "section": "S6",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S6/6.1/6.1.3/6.1.3.4/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S6/6.1/6.1.3/6.1.3.4/remediation.sh"
+  },
+  {
+    "id": "6.1.3.5",
+    "title": "6.1.3.5",
+    "section": "S6",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S6/6.1/6.1.3/6.1.3.5/audit.sh",
+    "remediation": null
+  },
+  {
+    "id": "6.1.3.6",
+    "title": "6.1.3.6",
+    "section": "S6",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S6/6.1/6.1.3/6.1.3.6/audit.sh",
+    "remediation": null
+  },
+  {
+    "id": "6.1.3.7",
+    "title": "6.1.3.7",
+    "section": "S6",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S6/6.1/6.1.3/6.1.3.7/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S6/6.1/6.1.3/6.1.3.7/remediation.sh"
+  },
+  {
+    "id": "6.1.3.8",
+    "title": "6.1.3.8",
+    "section": "S6",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S6/6.1/6.1.3/6.1.3.8/audit.sh",
+    "remediation": null
+  },
+  {
+    "id": "6.1.4.1",
+    "title": "6.1.4.1",
+    "section": "S6",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S6/6.1/6.1.4/6.1.4.1/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S6/6.1/6.1.4/6.1.4.1/remediation.sh"
+  },
+  {
+    "id": "6.2.1.1",
+    "title": "6.2.1.1",
+    "section": "S6",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.1/6.2.1.1/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.1/6.2.1.1/remediation.sh"
+  },
+  {
+    "id": "6.2.1.2",
+    "title": "6.2.1.2",
+    "section": "S6",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.1/6.2.1.2/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.1/6.2.1.2/remediation.sh"
+  },
+  {
+    "id": "6.2.1.3",
+    "title": "6.2.1.3",
+    "section": "S6",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.1/6.2.1.3/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.1/6.2.1.3/remediation.sh"
+  },
+  {
+    "id": "6.2.1.4",
+    "title": "6.2.1.4",
+    "section": "S6",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.1/6.2.1.4/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.1/6.2.1.4/remediation.sh"
+  },
+  {
+    "id": "6.2.2.1",
+    "title": "6.2.2.1",
+    "section": "S6",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.2/6.2.2.1/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.2/6.2.2.1/remediation.sh"
+  },
+  {
+    "id": "6.2.2.2",
+    "title": "6.2.2.2",
+    "section": "S6",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.2/6.2.2.2/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.2/6.2.2.2/remediation.sh"
+  },
+  {
+    "id": "6.2.2.3",
+    "title": "6.2.2.3",
+    "section": "S6",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.2/6.2.2.3/audit.sh",
+    "remediation": null
+  },
+  {
+    "id": "6.2.2.4",
+    "title": "6.2.2.4",
+    "section": "S6",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.2/6.2.2.4/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.2/6.2.2.4/remediation.sh"
+  },
+  {
+    "id": "6.2.3.1",
+    "title": "6.2.3.1",
+    "section": "S6",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.3/6.2.3.1/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.3/6.2.3.1/remediation.sh"
+  },
+  {
+    "id": "6.2.3.2",
+    "title": "6.2.3.2",
+    "section": "S6",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.3/6.2.3.2/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.3/6.2.3.2/remediation.sh"
+  },
+  {
+    "id": "6.2.3.3",
+    "title": "6.2.3.3",
+    "section": "S6",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.3/6.2.3.3/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.3/6.2.3.3/remediation.sh"
+  },
+  {
+    "id": "6.2.3.4",
+    "title": "6.2.3.4",
+    "section": "S6",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.3/6.2.3.4/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.3/6.2.3.4/remediation.sh"
+  },
+  {
+    "id": "6.2.3.5",
+    "title": "6.2.3.5",
+    "section": "S6",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.3/6.2.3.5/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.3/6.2.3.5/remediation.sh"
+  },
+  {
+    "id": "6.2.3.6",
+    "title": "6.2.3.6",
+    "section": "S6",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.3/6.2.3.6/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.3/6.2.3.6/remediation.sh"
+  },
+  {
+    "id": "6.2.3.7",
+    "title": "6.2.3.7",
+    "section": "S6",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.3/6.2.3.7/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.3/6.2.3.7/remediation.sh"
+  },
+  {
+    "id": "6.2.3.8",
+    "title": "6.2.3.8",
+    "section": "S6",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.3/6.2.3.8/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.3/6.2.3.8/remediation.sh"
+  },
+  {
+    "id": "6.2.3.9",
+    "title": "6.2.3.9",
+    "section": "S6",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.3/6.2.3.9/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.3/6.2.3.9/remediation.sh"
+  },
+  {
+    "id": "6.2.3.10",
+    "title": "6.2.3.10",
+    "section": "S6",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.3/6.2.3.10/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.3/6.2.3.10/remediation.sh"
+  },
+  {
+    "id": "6.2.3.11",
+    "title": "6.2.3.11",
+    "section": "S6",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.3/6.2.3.11/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.3/6.2.3.11/remediation.sh"
+  },
+  {
+    "id": "6.2.3.12",
+    "title": "6.2.3.12",
+    "section": "S6",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.3/6.2.3.12/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.3/6.2.3.12/remediation.sh"
+  },
+  {
+    "id": "6.2.3.13",
+    "title": "6.2.3.13",
+    "section": "S6",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.3/6.2.3.13/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.3/6.2.3.13/remediation.sh"
+  },
+  {
+    "id": "6.2.3.14",
+    "title": "6.2.3.14",
+    "section": "S6",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.3/6.2.3.14/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.3/6.2.3.14/remediation.sh"
+  },
+  {
+    "id": "6.2.3.15",
+    "title": "6.2.3.15",
+    "section": "S6",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.3/6.2.3.15/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.3/6.2.3.15/remediation.sh"
+  },
+  {
+    "id": "6.2.3.16",
+    "title": "6.2.3.16",
+    "section": "S6",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.3/6.2.3.16/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.3/6.2.3.16/remediation.sh"
+  },
+  {
+    "id": "6.2.3.17",
+    "title": "6.2.3.17",
+    "section": "S6",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.3/6.2.3.17/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.3/6.2.3.17/remediation.sh"
+  },
+  {
+    "id": "6.2.3.18",
+    "title": "6.2.3.18",
+    "section": "S6",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.3/6.2.3.18/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.3/6.2.3.18/remediation.sh"
+  },
+  {
+    "id": "6.2.3.19",
+    "title": "6.2.3.19",
+    "section": "S6",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.3/6.2.3.19/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.3/6.2.3.19/remediation.sh"
+  },
+  {
+    "id": "6.2.3.20",
+    "title": "6.2.3.20",
+    "section": "S6",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.3/6.2.3.20/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.3/6.2.3.20/remediation.sh"
+  },
+  {
+    "id": "6.2.3.21",
+    "title": "6.2.3.21",
+    "section": "S6",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.3/6.2.3.21/audit.sh",
+    "remediation": null
+  },
+  {
+    "id": "6.2.4.1",
+    "title": "6.2.4.1",
+    "section": "S6",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.4/6.2.4.1/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.4/6.2.4.1/remediation.sh"
+  },
+  {
+    "id": "6.2.4.2",
+    "title": "6.2.4.2",
+    "section": "S6",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.4/6.2.4.2/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.4/6.2.4.2/remediation.sh"
+  },
+  {
+    "id": "6.2.4.3",
+    "title": "6.2.4.3",
+    "section": "S6",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.4/6.2.4.3/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.4/6.2.4.3/remediation.sh"
+  },
+  {
+    "id": "6.2.4.4",
+    "title": "6.2.4.4",
+    "section": "S6",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.4/6.2.4.4/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.4/6.2.4.4/remediation.sh"
+  },
+  {
+    "id": "6.2.4.5",
+    "title": "6.2.4.5",
+    "section": "S6",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.4/6.2.4.5/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.4/6.2.4.5/remediation.sh"
+  },
+  {
+    "id": "6.2.4.6",
+    "title": "6.2.4.6",
+    "section": "S6",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.4/6.2.4.6/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.4/6.2.4.6/remediation.sh"
+  },
+  {
+    "id": "6.2.4.7",
+    "title": "6.2.4.7",
+    "section": "S6",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.4/6.2.4.7/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.4/6.2.4.7/remediation.sh"
+  },
+  {
+    "id": "6.2.4.8",
+    "title": "6.2.4.8",
+    "section": "S6",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.4/6.2.4.8/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.4/6.2.4.8/remediation.sh"
+  },
+  {
+    "id": "6.2.4.9",
+    "title": "6.2.4.9",
+    "section": "S6",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.4/6.2.4.9/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.4/6.2.4.9/remediation.sh"
+  },
+  {
+    "id": "6.2.4.10",
+    "title": "6.2.4.10",
+    "section": "S6",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.4/6.2.4.10/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S6/6.2/6.2.4/6.2.4.10/remediation.sh"
+  },
+  {
+    "id": "6.3.1",
+    "title": "6.3.1",
+    "section": "S6",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S6/6.3/6.3.1/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S6/6.3/6.3.1/remediation.sh"
+  },
+  {
+    "id": "6.3.2",
+    "title": "6.3.2",
+    "section": "S6",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S6/6.3/6.3.2/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S6/6.3/6.3.2/remediation.sh"
+  },
+  {
+    "id": "6.3.3",
+    "title": "6.3.3",
+    "section": "S6",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S6/6.3/6.3.3/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S6/6.3/6.3.3/remediation.sh"
+  },
+  {
+    "id": "7.1.1",
+    "title": "7.1.1",
+    "section": "S7",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S7/7.1/7.1.1/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S7/7.1/7.1.1/remediation.sh"
+  },
+  {
+    "id": "7.1.2",
+    "title": "7.1.2",
+    "section": "S7",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S7/7.1/7.1.2/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S7/7.1/7.1.2/remediation.sh"
+  },
+  {
+    "id": "7.1.3",
+    "title": "7.1.3",
+    "section": "S7",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S7/7.1/7.1.3/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S7/7.1/7.1.3/remediation.sh"
+  },
+  {
+    "id": "7.1.4",
+    "title": "7.1.4",
+    "section": "S7",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S7/7.1/7.1.4/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S7/7.1/7.1.4/remediation.sh"
+  },
+  {
+    "id": "7.1.5",
+    "title": "7.1.5",
+    "section": "S7",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S7/7.1/7.1.5/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S7/7.1/7.1.5/remediation.sh"
+  },
+  {
+    "id": "7.1.6",
+    "title": "7.1.6",
+    "section": "S7",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S7/7.1/7.1.6/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S7/7.1/7.1.6/remediation.sh"
+  },
+  {
+    "id": "7.1.7",
+    "title": "7.1.7",
+    "section": "S7",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S7/7.1/7.1.7/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S7/7.1/7.1.7/remediation.sh"
+  },
+  {
+    "id": "7.1.8",
+    "title": "7.1.8",
+    "section": "S7",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S7/7.1/7.1.8/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S7/7.1/7.1.8/remediation.sh"
+  },
+  {
+    "id": "7.1.9",
+    "title": "7.1.9",
+    "section": "S7",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S7/7.1/7.1.9/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S7/7.1/7.1.9/remediation.sh"
+  },
+  {
+    "id": "7.1.10",
+    "title": "7.1.10",
+    "section": "S7",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S7/7.1/7.1.10/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S7/7.1/7.1.10/remediation.sh"
+  },
+  {
+    "id": "7.1.11",
+    "title": "7.1.11",
+    "section": "S7",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S7/7.1/7.1.11/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S7/7.1/7.1.11/remediation.sh"
+  },
+  {
+    "id": "7.1.12",
+    "title": "7.1.12",
+    "section": "S7",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S7/7.1/7.1.12/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S7/7.1/7.1.12/remediation.sh"
+  },
+  {
+    "id": "7.1.13",
+    "title": "7.1.13",
+    "section": "S7",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S7/7.1/7.1.13/audit.sh",
+    "remediation": null
+  },
+  {
+    "id": "7.2.1",
+    "title": "7.2.1",
+    "section": "S7",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S7/7.2/7.2.1/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S7/7.2/7.2.1/remediation.sh"
+  },
+  {
+    "id": "7.2.2",
+    "title": "7.2.2",
+    "section": "S7",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S7/7.2/7.2.2/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S7/7.2/7.2.2/remediation.sh"
+  },
+  {
+    "id": "7.2.3",
+    "title": "7.2.3",
+    "section": "S7",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S7/7.2/7.2.3/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S7/7.2/7.2.3/remediation.sh"
+  },
+  {
+    "id": "7.2.4",
+    "title": "7.2.4",
+    "section": "S7",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S7/7.2/7.2.4/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S7/7.2/7.2.4/remediation.sh"
+  },
+  {
+    "id": "7.2.5",
+    "title": "7.2.5",
+    "section": "S7",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S7/7.2/7.2.5/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S7/7.2/7.2.5/remediation.sh"
+  },
+  {
+    "id": "7.2.6",
+    "title": "7.2.6",
+    "section": "S7",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S7/7.2/7.2.6/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S7/7.2/7.2.6/remediation.sh"
+  },
+  {
+    "id": "7.2.7",
+    "title": "7.2.7",
+    "section": "S7",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S7/7.2/7.2.7/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S7/7.2/7.2.7/remediation.sh"
+  },
+  {
+    "id": "7.2.8",
+    "title": "7.2.8",
+    "section": "S7",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S7/7.2/7.2.8/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S7/7.2/7.2.8/remediation.sh"
+  },
+  {
+    "id": "7.2.9",
+    "title": "7.2.9",
+    "section": "S7",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S7/7.2/7.2.9/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S7/7.2/7.2.9/remediation.sh"
+  },
+  {
+    "id": "7.2.10",
+    "title": "7.2.10",
+    "section": "S7",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S7/7.2/7.2.10/audit.sh",
+    "remediation": "platforms/linux/ubuntu/desktop/rules/S7/7.2/7.2.10/remediation.sh"
+  },
+  {
+    "id": "common",
+    "title": "common",
+    "section": "S6",
+    "audit": "platforms/linux/ubuntu/desktop/rules/S6/common/audit_helpers.sh",
+    "remediation": null
+  }
+]

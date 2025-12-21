@@ -1,0 +1,15 @@
+{
+  "platform": "android",
+  "distribution": "android",
+  "variant": "mobile",
+  "versions": ["11", "12", "13", "14"],
+  "benchmark": "CIS Google Android Benchmark",
+  "benchmark_version": "v1.0.0",
+  "benchmark_level": ["Level 1", "Level 2"],
+  "supported_automation": ["adb", "mdm", "emm"],
+  "inherits_from": [],
+  "description": "CIS Benchmark security hardening rules for Android devices",
+  "maintainer": "Security Automation Team",
+  "last_updated": "2024-12-16",
+  "notes": "Requires ADB access or MDM/EMM solution for enterprise deployment"
+}

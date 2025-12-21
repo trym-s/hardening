@@ -1,0 +1,14 @@
+{
+  "platform": "linux",
+  "distribution": "ubuntu",
+  "variant": "desktop",
+  "versions": ["20.04", "22.04", "24.04"],
+  "benchmark": "CIS Ubuntu Linux Benchmark",
+  "benchmark_version": "v2.0.0",
+  "benchmark_level": ["Level 1", "Level 2"],
+  "supported_automation": ["bash", "ansible", "python"],
+  "inherits_from": ["platforms/linux/common"],
+  "description": "CIS Benchmark security hardening rules for Ubuntu Desktop",
+  "maintainer": "Security Automation Team",
+  "last_updated": "2024-12-16"
+}

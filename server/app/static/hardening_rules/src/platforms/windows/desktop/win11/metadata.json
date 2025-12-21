@@ -1,0 +1,15 @@
+{
+  "platform": "windows",
+  "distribution": "windows11",
+  "variant": "desktop",
+  "versions": ["21H2", "22H2", "23H2"],
+  "benchmark": "CIS Microsoft Windows 11 Enterprise Benchmark",
+  "benchmark_version": "v2.0.0",
+  "benchmark_level": ["Level 1", "Level 2"],
+  "supported_automation": ["powershell", "dsc", "intune"],
+  "inherits_from": [],
+  "description": "CIS Benchmark security hardening rules for Windows 11",
+  "maintainer": "Security Automation Team",
+  "last_updated": "2024-12-16",
+  "notes": "Requires PowerShell 5.1 or higher"
+}

@@ -1,0 +1,31 @@
+/* client/src/pages/HomePage.css */
+
+.home-page-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  position: relative;
+}
+
+.home-page-main {
+  flex-grow: 1;
+}
+
+.home-page-divider {
+  height: 1px;
+  background: linear-gradient(90deg, transparent, rgba(255,255,255,0.08), transparent);
+  margin-top: 64px; /* my: 8 * 8px = 64px */
+  margin-bottom: 64px; /* my: 8 * 8px = 64px */
+  max-width: 900px; /* Corresponds to MUI 'md' breakpoint */
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.home-page-footer {
+  padding-top: 48px; /* py: 6 * 8px = 48px */
+  padding-bottom: 48px; /* py: 6 * 8px = 48px */
+  text-align: center;
+  border-top: 1px solid rgba(255,255,255,0.05);
+  margin-top: auto;
+  background-color: #09090b;
+}

@@ -1,17 +1,16 @@
-import { OSType } from './os';
-
 export interface Rule {
   id: string;
   title: string;
   section: string;
-  os: OSType;
   description?: string;
   audit: string;
-  remediation: string;
+  remediation: string | null;
 }
 
-export type GroupedRules = {
-  [os in OSType]?: {
-    [section: string]: Rule[];
-  };
+/**
+ * Represents rules for a single platform, grouped by section.
+ * e.g., { "Section 1": [rule1, rule2], "Section 2": [rule3] }
+ */
+export type PlatformRules = {
+  [section: string]: Rule[];
 };

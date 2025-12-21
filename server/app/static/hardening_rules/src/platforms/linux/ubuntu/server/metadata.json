@@ -1,0 +1,15 @@
+{
+  "platform": "linux",
+  "distribution": "ubuntu",
+  "variant": "server",
+  "versions": ["20.04 LTS", "22.04 LTS", "24.04 LTS"],
+  "benchmark": "CIS Ubuntu Linux Benchmark",
+  "benchmark_version": "v2.0.0",
+  "benchmark_level": ["Level 1", "Level 2"],
+  "supported_automation": ["bash", "ansible", "python"],
+  "inherits_from": ["platforms/linux/common", "platforms/linux/ubuntu/desktop"],
+  "description": "CIS Benchmark security hardening rules for Ubuntu Server",
+  "maintainer": "Security Automation Team",
+  "last_updated": "2024-12-16",
+  "notes": "Server variant includes additional hardening for production environments"
+}

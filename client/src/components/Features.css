@@ -1,0 +1,43 @@
+/* client/src/components/Features.css */
+
+.features-container {
+  padding-top: 80px; /* py: 10 * 8px = 80px */
+  padding-bottom: 80px; /* py: 10 * 8px = 80px */
+  background-color: transparent;
+}
+
+.features-title {
+  margin-bottom: 48px; /* mb: 6 * 8px = 48px */
+  font-size: 2rem; /* xs: "2rem" */
+}
+
+@media (min-width: 900px) { /* md breakpoint */
+  .features-title {
+    font-size: 2.5rem; /* md: "2.5rem" */
+  }
+}
+
+.feature-card {
+  padding: 24px; /* p: 3 * 8px = 24px */
+  height: 100%;
+  background-color: rgba(255,255,255,0.02);
+  border-color: rgba(255,255,255,0.08);
+  transition: all 0.3s ease;
+}
+
+.feature-card:hover {
+  transform: translateY(-4px);
+  border-color: #4db6ac; /* primary.main */
+  box-shadow: 0 10px 40px -10px rgba(77, 182, 172, 0.2);
+}
+
+.feature-icon-container {
+  margin-bottom: 16px; /* mb: 2 * 8px = 16px */
+  width: 48px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 16px; /* borderRadius: 2 * 8px = 16px */
+  background-color: rgba(255,255,255,0.05);
+}

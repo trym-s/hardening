@@ -1,0 +1,15 @@
+{
+  "platform": "windows",
+  "distribution": "windows_server",
+  "variant": "server",
+  "versions": ["2022"],
+  "benchmark": "CIS Microsoft Windows Server 2022 Benchmark",
+  "benchmark_version": "v2.0.0",
+  "benchmark_level": ["Level 1", "Level 2"],
+  "supported_automation": ["powershell", "dsc", "sccm"],
+  "inherits_from": ["platforms/windows/server/common"],
+  "description": "CIS Benchmark security hardening rules for Windows Server 2022",
+  "maintainer": "Security Automation Team",
+  "last_updated": "2024-12-16",
+  "notes": "Optimized for domain and standalone servers"
+}

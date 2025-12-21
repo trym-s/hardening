@@ -1,0 +1,31 @@
+/* client/src/components/GenerateScriptModal.css */
+
+.generate-script-modal-paper {
+  background-color: #121212; /* background.paper */
+  border: 1px solid rgba(255,255,255,0.1);
+}
+
+.generate-script-modal-title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.generate-script-modal-loading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+}
+
+.generate-script-modal-rules-list-container {
+  max-height: 40vh;
+  overflow: auto;
+  background-color: rgba(0,0,0,0.2);
+  padding: 8px; /* p: 1 * 8px = 8px */
+  border-radius: 8px; /* borderRadius: 1 * 8px = 8px */
+}
+
+.generate-script-modal-actions {
+  padding: 16px; /* p: 2 * 8px = 16px */
+}

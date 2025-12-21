@@ -1,0 +1,69 @@
+/* client/src/components/Hero.css */
+
+.hero-container {
+  text-align: center;
+  padding-top: 128px; /* py: 16 * 8px = 128px */
+  padding-bottom: 128px; /* py: 16 * 8px = 128px */
+  position: relative;
+  z-index: 1;
+}
+
+.hero-background-glow {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 600px;
+  height: 600px;
+  background: radial-gradient(circle, rgba(77, 182, 172, 0.12) 0%, rgba(9, 9, 11, 0) 70%);
+  z-index: -1;
+  filter: blur(60px);
+  pointer-events: none;
+}
+
+.hero-chip {
+  margin-bottom: 24px; /* mb: 3 * 8px = 24px */
+  background-color: rgba(77, 182, 172, 0.1);
+  color: #80cbc4; /* primary.light */
+  border: 1px solid rgba(77, 182, 172, 0.2);
+  font-weight: 500;
+}
+
+.hero-title {
+  margin-bottom: 16px; /* mb: 2 * 8px = 16px */
+  font-size: 3rem; /* xs: "3rem" */
+  background: linear-gradient(to bottom right, #ffffff 30%, #94a3b8 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  letter-spacing: -0.03em;
+  line-height: 1.1;
+}
+
+@media (min-width: 900px) { /* md breakpoint */
+  .hero-title {
+    font-size: 5rem; /* md: "5rem" */
+  }
+}
+
+.hero-subtitle {
+  margin-bottom: 48px; /* mb: 6 * 8px = 48px */
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  line-height: 1.6;
+  font-weight: 300;
+}
+
+.hero-button-container {
+  display: flex;
+  gap: 16px; /* gap: 2 * 8px = 16px */
+  justify-content: center;
+}
+
+.hero-button {
+  padding-left: 32px; /* px: 4 * 8px = 32px */
+  padding-right: 32px; /* px: 4 * 8px = 32px */
+  padding-top: 12px; /* py: 1.5 * 8px = 12px */
+  padding-bottom: 12px; /* py: 1.5 * 8px = 12px */
+  font-size: 1rem;
+}

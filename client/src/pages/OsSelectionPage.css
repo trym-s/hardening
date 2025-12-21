@@ -1,0 +1,78 @@
+/* client/src/pages/OsSelectionPage.css */
+
+.os-selection-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  position: relative;
+  background-color: #09090b; /* Using a fixed color for now, as background.default is from MUI theme */
+}
+
+.os-list-item-icon {
+  width: 40px;
+  height: 40px;
+  margin-right: 16px; /* mr: 2 * 8px = 16px */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.os-card {
+  padding: 24px; /* p: 3 * 8px = 24px */
+  display: flex;
+  align-items: center;
+  border-radius: 24px; /* borderRadius: 3 * 8px = 24px */
+  background-color: rgba(255, 255, 255, 0.03);
+  border: 1px solid;
+  border-color: rgba(255,255,255,0.08); /* Default border color */
+  transition: transform 0.2s, box-shadow 0.2s, border-color 0.2s, opacity 0.2s;
+}
+
+.os-card.selectable {
+  cursor: pointer;
+}
+
+.os-card.selected {
+  border-color: #4db6ac; /* primary.main from MUI theme */
+}
+
+.os-card.selectable:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+  border-color: rgba(255, 255, 255, 0.2); /* Hover border color */
+}
+
+.os-card.selected.selectable:hover {
+  border-color: #26a69a; /* primary.dark from MUI theme */
+}
+
+.os-card.disabled {
+  cursor: not-allowed;
+  opacity: 0.4;
+  transform: none;
+  box-shadow: none;
+  border-color: rgba(255,255,255,0.08);
+}
+
+.generate-script-fab {
+  position: fixed;
+  bottom: 32px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 1000;
+}
+
+.generate-script-button {
+  box-shadow: 0 4px 20px rgba(77, 182, 172, 0.5);
+  border-radius: 50px;
+  padding: 12px 24px;
+  font-weight: 600;
+}
+
+.os-selection-footer {
+  padding-top: 48px; /* py: 6 * 8px = 48px */
+  padding-bottom: 48px; /* py: 6 * 8px = 48px */
+  text-align: center;
+  border-top: 1px solid rgba(255,255,255,0.05);
+  background-color: #09090b;
+}

@@ -1,0 +1,84 @@
+/* client/src/components/Header.css */
+
+.header-app-bar {
+  border-bottom: 1px solid rgba(255,255,255,0.08);
+  backdrop-filter: blur(12px);
+  background-color: rgba(9, 9, 11, 0.7); /* Zinc 950 with opacity */
+  z-index: 100;
+}
+
+.header-toolbar {
+  height: 64px;
+}
+
+.header-logo-area {
+  display: flex;
+  align-items: center;
+  flex-grow: 1;
+}
+
+.header-logo-image-container {
+  margin-right: 16px; /* mr: 2 * 8px = 16px */
+  padding: 4px; /* p: 0.5 * 8px = 4px */
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+}
+
+.header-title {
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  background: linear-gradient(to right, #fff, #a1a1aa);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.header-title-ai {
+  color: #4db6ac; /* primary.main */
+}
+
+.header-desktop-nav {
+  display: none; /* xs */
+  align-items: center;
+  gap: 8px; /* gap: 1 * 8px = 8px */
+}
+
+@media (min-width: 900px) { /* md breakpoint */
+  .header-desktop-nav {
+    display: flex;
+  }
+}
+
+.header-nav-button {
+  color: #a1a1aa; /* text.secondary */
+}
+
+.header-nav-button:hover {
+  color: white;
+  background-color: transparent;
+}
+
+.header-github-button {
+  margin-left: 16px; /* ml: 2 * 8px = 16px */
+  border-color: rgba(255,255,255,0.2);
+  color: white;
+}
+
+.header-github-button:hover {
+  border-color: white;
+  background-color: rgba(255,255,255,0.05);
+}
+
+.header-mobile-menu-icon {
+  display: block; /* xs */
+  color: #a1a1aa; /* text.secondary */
+}
+
+@media (min-width: 900px) { /* md breakpoint */
+  .header-mobile-menu-icon {
+    display: none;
+  }
+}

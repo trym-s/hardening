@@ -1,30 +1,32 @@
-from fastapi import APIRouter, Depends
+from app.api.v1.endpoints import chat, report, script, rules
+from fastapi import APIRouter, Depends, Query
 from typing import List, Dict
 from app.services.rule_service import RuleService
-from app.schemas.script import RuleBase, OSType
+from app.schemas.script import RuleBase
+from app.api.deps import get_rule_service, get_platform
 
 router = APIRouter()
 
-@router.get("/", response_model=Dict[OSType, Dict[str, List[RuleBase]]])
-async def get_all_rules(service: RuleService = Depends(RuleService)):
+@router.get("/", response_model=Dict[str, List[RuleBase]])
+async def get_all_rules(
+    platform: str = Depends(get_platform),
+    service: RuleService = Depends(get_rule_service)
+):
     """
-    Get all rules, grouped by OS and then by section.
+    Get all rules for a specific platform, grouped by section.
+    Requires a 'platform' query parameter.
     """
     rules = await service.get_registry()
     
-    grouped_rules: Dict[OSType, Dict[str, List[RuleBase]]] = {}
+    grouped_rules: Dict[str, List[RuleBase]] = {}
     
     for rule_data in rules:
         rule = RuleBase(**rule_data)
-        os = rule.os
         section = rule.section
         
-        if os not in grouped_rules:
-            grouped_rules[os] = {}
-        
-        if section not in grouped_rules[os]:
-            grouped_rules[os][section] = []
+        if section not in grouped_rules:
+            grouped_rules[section] = []
             
-        grouped_rules[os][section].append(rule)
+        grouped_rules[section].append(rule)
         
     return grouped_rules

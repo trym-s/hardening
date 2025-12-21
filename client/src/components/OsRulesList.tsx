@@ -19,18 +19,18 @@ import CheckCircleIcon from "@mui/icons-material/CheckCircle";
 import * as Types from "../types";
 
 interface OsRulesListProps {
-  selectedOs: string | null;
+  selectedOsName: string | null;
+  platformRules: Types.PlatformRules;
   selectedRuleIds: string[];
   onRuleToggle: (ruleId: string) => void;
-  groupedRules: Types.GroupedRules;
   isLoading: boolean;
 }
 
 export const OsRulesList: React.FC<OsRulesListProps> = ({
-  selectedOs,
+  selectedOsName,
+  platformRules,
   selectedRuleIds,
   onRuleToggle,
-  groupedRules,
   isLoading,
 }) => {
   const [expandedRuleId, setExpandedRuleId] = useState<string | null>(null);
@@ -39,29 +39,25 @@ export const OsRulesList: React.FC<OsRulesListProps> = ({
     setExpandedRuleId(expandedRuleId === ruleId ? null : ruleId);
   };
 
-  const rulesForSelectedOs = selectedOs
-    ? groupedRules[selectedOs.toLowerCase() as Types.OSType]
-    : null;
-
   const renderContent = () => {
     if (isLoading) {
       return <CircularProgress />;
     }
 
-    if (!selectedOs) {
-      return null;
+    if (!selectedOsName) {
+      return null; // Don't render anything if no OS is selected
     }
 
-    if (!rulesForSelectedOs || Object.keys(rulesForSelectedOs).length === 0) {
-      return <Typography>No rules found for {selectedOs}.</Typography>;
+    if (Object.keys(platformRules).length === 0) {
+      return <Typography>No rules found for {selectedOsName}.</Typography>;
     }
 
     return (
       <>
         <Typography variant="h4" gutterBottom>
-          {selectedOs} Hardening Rules
+          {selectedOsName} Hardening Rules
         </Typography>
-        {Object.entries(rulesForSelectedOs).map(([section, rules]) => (
+        {Object.entries(platformRules).map(([section, rules]) => (
           <Accordion
             key={section}
             defaultExpanded
@@ -126,7 +122,7 @@ export const OsRulesList: React.FC<OsRulesListProps> = ({
   };
 
   return (
-    <Collapse in={!!selectedOs} timeout="auto" unmountOnExit>
+    <Collapse in={!!selectedOsName} timeout="auto" unmountOnExit>
       <Box
         sx={{
           mt: 6,

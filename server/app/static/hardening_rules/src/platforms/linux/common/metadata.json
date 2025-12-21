@@ -1,0 +1,15 @@
+{
+  "platform": "linux",
+  "distribution": "common",
+  "variant": "all",
+  "versions": ["all"],
+  "benchmark": "CIS Distribution Independent Linux Benchmark",
+  "benchmark_version": "v2.0.0",
+  "benchmark_level": ["Level 1", "Level 2"],
+  "supported_automation": ["bash", "ansible", "python"],
+  "inherits_from": [],
+  "description": "Common security hardening rules applicable to all Linux distributions",
+  "maintainer": "Security Automation Team",
+  "last_updated": "2024-12-16",
+  "notes": "These rules work across all major Linux distributions"
+}

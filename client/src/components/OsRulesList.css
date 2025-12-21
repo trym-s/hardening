@@ -1,0 +1,45 @@
+/* client/src/components/OsRulesList.css */
+
+.os-rules-list-container {
+  margin-top: 48px; /* mt: 6 * 8px = 48px */
+  padding: 32px; /* p: 4 * 8px = 32px */
+  background-color: rgba(255, 255, 255, 0.02);
+  border-radius: 24px; /* borderRadius: 3 * 8px = 24px */
+  border: 1px solid rgba(255,255,255,0.08);
+}
+
+.os-rules-accordion {
+  background-color: rgba(255, 255, 255, 0.03);
+  color: #fff; /* text.primary */
+  margin-bottom: 8px; /* mb: 1 * 8px = 8px */
+}
+
+.os-rules-accordion-expand-icon {
+  color: white;
+}
+
+.os-rules-list-item {
+  border-bottom: 1px solid rgba(255,255,255,0.1);
+}
+
+.os-rules-list-item:last-child {
+  border-bottom: none;
+}
+
+.os-rules-list-item-icon {
+  min-width: 32px;
+}
+
+.os-rules-list-item-toggle-button {
+  color: #a1a1aa; /* text.secondary */
+}
+
+.os-rules-list-item-text {
+  cursor: pointer;
+}
+
+.os-rules-description {
+  padding: 16px; /* p: 2 * 8px = 16px */
+  background-color: rgba(0,0,0,0.2);
+  color: #a1a1aa; /* text.secondary */
+}
